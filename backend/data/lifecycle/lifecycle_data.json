@@ -1,0 +1,500 @@
+{
+ "generated": "2026-10-27",
+ "generator": "backend/scripts/build_lifecycle_data.py",
+ "note": "Every figure was checked against the printed text of the cited PDF page (`printed`).",
+ "sources": {
+  "cpwd": {
+   "url": "https://ndmc.gov.in/departments/Departments/Finance/nodal_cell/CPWD%20Maintenance%20Manual%202019.pdf",
+   "sha256": "5d3962f29d1e755ff32f8267dd1b3c44f015b377e22b8e58f206dc8b0bec4251",
+   "retrieved": "2026-10-27",
+   "title": "CPWD Maintenance Manual 2019",
+   "publisher": "Central Public Works Department, Ministry of Housing & Urban Affairs, Govt. of India"
+  },
+  "ens": {
+   "url": "https://policy.asiapacificenergy.org/sites/default/files/Eco-Niwas%20Samhita%202018%20%28Energy%20Conservation%20Building%20Code%20for%20Residential%20Buildings%29.pdf",
+   "sha256": "32fe2d2a4d5662c42d38f235be66bedeb0835ed72ded5d6f554a2b0d231011fb",
+   "retrieved": "2026-10-27",
+   "title": "Eco-Niwas Samhita 2018 (Energy Conservation Building Code for Residential Buildings), Part I: Building Envelope",
+   "publisher": "Bureau of Energy Efficiency, Ministry of Power, Govt. of India"
+  },
+  "is1172": {
+   "url": "https://law.resource.org/pub/in/bis/S03/is.1172.1993.pdf",
+   "sha256": "20edee25febc3b26fc0a4465acf466316d419a2d23f5ebddd21434774fe7393c",
+   "retrieved": "2026-10-27",
+   "title": "IS 1172:1993 Code of Basic Requirements for Water Supply, Drainage and Sanitation",
+   "publisher": "Bureau of Indian Standards (via Public.Resource.Org)"
+  },
+  "cgwb": {
+   "url": "https://cgwb.gov.in/old_website/documents/Manual%20on%20Artificial%20Recharge%20of%20Ground%20Water.pdf",
+   "sha256": "7fa332994614799b0676e969c54f12bdca6ba5dedaa0830600d9fbf88adf97bb",
+   "retrieved": "2026-10-27",
+   "title": "Manual on Artificial Recharge of Ground Water (2007)",
+   "publisher": "Central Ground Water Board, Ministry of Water Resources, Govt. of India"
+  }
+ },
+ "finishing_periodicity": {
+  "interior_paint": {
+   "years": 3,
+   "ref": "Annexure 10, item A1",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Painting with plastic/Acrylic Emulsion paint, Acrylic Synthetic enamel paint, Oil bound distemper etc. 3 years"
+  },
+  "exterior_emulsion": {
+   "years": 5,
+   "ref": "Annexure 10, item A2",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Painting external surface with exterior emulsion or equivalent paint. 5 years"
+  },
+  "exterior_cement_paint": {
+   "years": 3,
+   "ref": "Annexure 10, item A3",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Painting external surface with water proofing cement paint. 3 years"
+  },
+  "tank_cleaning": {
+   "years": 0.5,
+   "ref": "Annexure 10, item A4",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Cleaning and disinfecting of water storage/distribution tanks, water mains. 6 months"
+  },
+  "sewer_cleaning": {
+   "years": 1,
+   "ref": "Annexure 10, item A5",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Cleaning of Manholes/Gully chambers and flushing of building sewers. 1 year"
+  },
+  "storm_drain_cleaning": {
+   "years": 1,
+   "ref": "Annexure 10, item A6",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Cleaning of storm water drains. 1 year"
+  },
+  "wood_polish": {
+   "years": 3,
+   "ref": "Annexure 10, item A8",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Polishing wooden doors/windows with spirit polish/synthetic acrylic polish. 3 years"
+  },
+  "electrical_cleaning": {
+   "years": 1,
+   "ref": "Annexure 10, item A9",
+   "doc": "cpwd",
+   "pdf_page": 57,
+   "printed": "Cleaning Electrical installation, fans etc. 1 year"
+  }
+ },
+ "component_life": {
+  "roof_waterproofing": {
+   "years": 10,
+   "ref": "Chapter 5 (i)",
+   "doc": "cpwd",
+   "pdf_page": 23,
+   "printed": "supposed to last satisfactorily only for a period of about ten years"
+  },
+  "gi_pipes": {
+   "years": 25,
+   "ref": "Chapter 5 (v)",
+   "doc": "cpwd",
+   "pdf_page": 23,
+   "printed": "The life of GI pipes shall be considered as 25 years"
+  },
+  "lawn_regrassing": {
+   "years": 5,
+   "ref": "Chapter 5 (vi)",
+   "doc": "cpwd",
+   "pdf_page": 23,
+   "printed": "Re-grassing of lawns/grass plots in 5 to 6 years without replacement of earth"
+  },
+  "conduit_wiring": {
+   "years": 20,
+   "ref": "Annexure 15 A1",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Conduit wiring non-coastal area 20"
+  },
+  "conduit_wiring_coastal": {
+   "years": 15,
+   "ref": "Annexure 15 A2",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Conduit wiring coastal area 15"
+  },
+  "indoor_luminaires": {
+   "years": 5,
+   "ref": "Annexure 15 A6",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Indoor luminaries 5"
+  },
+  "ceiling_fan": {
+   "years": 15,
+   "ref": "Annexure 15 B1",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Ceiling Fan AC 15"
+  },
+  "exhaust_fan": {
+   "years": 6,
+   "ref": "Annexure 15 B2",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Exhaust Fan AC 6"
+  },
+  "water_pump": {
+   "years": 10,
+   "ref": "Annexure 15 F5",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Water supply Pump( Centrifugal) 10"
+  },
+  "split_ac": {
+   "years": 7,
+   "ref": "Annexure 15 G5",
+   "doc": "cpwd",
+   "pdf_page": 76,
+   "printed": "Window type / Split type Air-conditioning units with air cooled condensers 7"
+  },
+  "solar_pv": {
+   "years": 25,
+   "ref": "Annexure 15 K4",
+   "doc": "cpwd",
+   "pdf_page": 77,
+   "printed": "Solar PV Panel 25"
+  }
+ },
+ "building_life": {
+  "rcc_framed": {
+   "years": 75,
+   "ref": "Chapter 5",
+   "doc": "cpwd",
+   "pdf_page": 23,
+   "printed": "RCC Framed construction 75 years"
+  },
+  "load_bearing": {
+   "years": 55,
+   "ref": "Chapter 5",
+   "doc": "cpwd",
+   "pdf_page": 23,
+   "printed": "Load bearing construction 55 years"
+  }
+ },
+ "inspections": [
+  {
+   "text": "Cleanliness of roofs, inlet of rain water pipes, khurra, chajja/sunshade top, outlet of rain water pipes, plinth protection and drains minimum twice a year and particularly before monsoon",
+   "doc": "cpwd",
+   "pdf_page": 28,
+   "printed": "Cleanliness of roofs, inlet of rain water pipes, khurra, chajja/sunshade top, outlet of rain water pipes, plinth protection and drains minimum twice a year and particularly before monsoon"
+  },
+  {
+   "text": "Cracks on gola and top of parapet",
+   "doc": "cpwd",
+   "pdf_page": 28,
+   "printed": "Cracks on gola and top of parapet"
+  },
+  {
+   "text": "Leakage from terrace tanks",
+   "doc": "cpwd",
+   "pdf_page": 28,
+   "printed": "Leakage from terrace tanks"
+  },
+  {
+   "text": "Rusting of GI pipes and fittings showing seepage",
+   "doc": "cpwd",
+   "pdf_page": 28,
+   "printed": "Rusting of GI pipes and fittings showing seepage"
+  }
+ ],
+ "cpwd_yardstick": {
+  "category": "Residential buildings, Type I to V and above",
+  "service_charges": 126.3,
+  "annual_repair": 54.65,
+  "special_repair": [
+   {
+    "from_year": 0,
+    "to_year": 20,
+    "rate": 34.8
+   },
+   {
+    "from_year": 21,
+    "to_year": 40,
+    "rate": 57.65
+   },
+   {
+    "from_year": 41,
+    "to_year": null,
+    "rate": 80.5
+   }
+  ],
+  "unit": "Rs per m² of plinth area per year",
+  "ref": "Annexure 2",
+  "as_on": "2019-04-01",
+  "doc": "cpwd",
+  "pdf_page": 40,
+  "printed": "Type I to V and above 126.30 54.65 34.80 57.65 80.50",
+  "basis_date": {
+   "doc": "cpwd",
+   "pdf_page": 40,
+   "printed": "As on 01.04.2019"
+  }
+ },
+ "cpwd_electrical_yardstick": {
+  "category": "Residential Type I to IV, concentrated groups",
+  "age_0_10": 69.0,
+  "age_over_10": 77.0,
+  "unit": "Rs per m² per year",
+  "ref": "Annexure 2(A)",
+  "as_on": "2019-04-01",
+  "doc": "cpwd",
+  "pdf_page": 42,
+  "printed": "Type I to IV 69 77 83 93"
+ },
+ "ens": {
+  "retv_max": {
+   "value": 15,
+   "ref": "cl. 3.4.2",
+   "doc": "ens",
+   "pdf_page": 20,
+   "printed": "shall comply with the maximum RETV19 of 15 W/m2"
+  },
+  "uroof_max": {
+   "value": 1.2,
+   "ref": "cl. 3.3.2",
+   "doc": "ens",
+   "pdf_page": 19,
+   "printed": "shall comply with the maximum Uroof value of 1.2 W/m2.K"
+  },
+  "retv_coefficients": {
+   "value": {
+    "Composite": {
+     "a": 6.06,
+     "b": 1.85,
+     "c": 68.99
+    },
+    "Hot-Dry": {
+     "a": 6.06,
+     "b": 1.85,
+     "c": 68.99
+    },
+    "Warm-Humid": {
+     "a": 5.15,
+     "b": 1.31,
+     "c": 65.21
+    },
+    "Temperate": {
+     "a": 3.38,
+     "b": 0.37,
+     "c": 63.69
+    }
+   },
+   "ref": "Table 3",
+   "doc": "ens",
+   "pdf_page": 22,
+   "printed": "Composite 6.06 1.85 68.99 Hot-Dry 6.06 1.85 68.99 Warm-Humid 5.15 1.31 65.21 Temperate 3.38 0.37 63.69"
+  },
+  "surface_films": {
+   "value": {
+    "rsi_wall": 0.13,
+    "rsi_roof": 0.17,
+    "rse_wall": 0.04,
+    "rse_roof": 0.04
+   },
+   "ref": "Table 6",
+   "doc": "ens",
+   "pdf_page": 34,
+   "printed": "Rsi (m2.K/W) 0.13 0.17 0.10 Rse (m2.K/W) 0.04 0.04 0.04"
+  },
+  "wfr_min_pct": {
+   "value": {
+    "Composite": 12.5,
+    "Hot-Dry": 10.0,
+    "Warm-Humid": 16.66,
+    "Temperate": 12.5,
+    "Cold": 8.33
+   },
+   "ref": "Table 1",
+   "doc": "ens",
+   "pdf_page": 18,
+   "printed": "Composite 12.50 Hot-Dry 10.00 Warm-Humid 16.66 Temperate 12.50 Cold 8.33"
+  },
+  "orientation_factors": {
+   "value": [
+    {
+     "from_deg": 337.6,
+     "to_deg": 22.5,
+     "lat_ge_23_5": 0.55,
+     "lat_lt_23_5": 0.659
+    },
+    {
+     "from_deg": 22.6,
+     "to_deg": 67.5,
+     "lat_ge_23_5": 0.829,
+     "lat_lt_23_5": 0.906
+    },
+    {
+     "from_deg": 67.6,
+     "to_deg": 112.5,
+     "lat_ge_23_5": 1.155,
+     "lat_lt_23_5": 1.155
+    },
+    {
+     "from_deg": 112.6,
+     "to_deg": 157.5,
+     "lat_ge_23_5": 1.211,
+     "lat_lt_23_5": 1.125
+    },
+    {
+     "from_deg": 157.6,
+     "to_deg": 202.5,
+     "lat_ge_23_5": 1.089,
+     "lat_lt_23_5": 0.966
+    },
+    {
+     "from_deg": 202.6,
+     "to_deg": 247.5,
+     "lat_ge_23_5": 1.202,
+     "lat_lt_23_5": 1.124
+    },
+    {
+     "from_deg": 247.6,
+     "to_deg": 292.5,
+     "lat_ge_23_5": 1.143,
+     "lat_lt_23_5": 1.156
+    },
+    {
+     "from_deg": 292.6,
+     "to_deg": 337.5,
+     "lat_ge_23_5": 0.821,
+     "lat_lt_23_5": 0.908
+    }
+   ],
+   "ref": "Table 9",
+   "doc": "ens",
+   "pdf_page": 39,
+   "printed": "North (337.6˚–22.5˚) 0.550 0.659 North-east (22.6˚–67.5˚) 0.829 0.906 East (67.6˚–112.5˚) 1.155 1.155 South-east (112.6˚–157.5˚) 1.211 1.125 South (157.6˚–202.5˚) 1.089 0.966 South-west (202.6˚–247.5˚) 1.202 1.124 West (247.6˚–292.5˚) 1.143 1.156 North-west (292.6˚–337.5˚) 0.821 0.908"
+  },
+  "materials": {
+   "burnt_clay_brick": {
+    "label": "Solid burnt clay brick (1920 kg/m³)",
+    "k": 0.98,
+    "ref": "Table 7",
+    "doc": "ens",
+    "pdf_page": 35,
+    "printed": "Solid burnt clay brick 1920 0.980"
+   },
+   "fly_ash_brick": {
+    "label": "Fly ash brick",
+    "k": 0.856,
+    "ref": "Table 7",
+    "doc": "ens",
+    "pdf_page": 35,
+    "printed": "Fly ash brick 1650 0.856"
+   },
+   "concrete_block": {
+    "label": "Solid concrete block 25/50",
+    "k": 1.396,
+    "ref": "Table 7",
+    "doc": "ens",
+    "pdf_page": 35,
+    "printed": "Solid concrete block 25/50 2427 1.396"
+   },
+   "aac_block": {
+    "label": "AAC block",
+    "k": 0.184,
+    "ref": "Table 7",
+    "doc": "ens",
+    "pdf_page": 35,
+    "printed": "Aerated autoclaved concrete (AAC) block 642 0.184"
+   },
+   "rcc": {
+    "label": "Reinforced concrete (RCC)",
+    "k": 1.58,
+    "ref": "Table 7",
+    "doc": "ens",
+    "pdf_page": 35,
+    "printed": "Reinforced concrete cement (RCC) 2288 1.580"
+   },
+   "cement_plaster": {
+    "label": "Cement plaster",
+    "k": 0.721,
+    "ref": "Table 7",
+    "doc": "ens",
+    "pdf_page": 35,
+    "printed": "Cement plaster 1762 0.721"
+   },
+   "puf": {
+    "label": "Polyurethane foam (PUF) insulation",
+    "k": 0.023,
+    "thickness_m": 0.04,
+    "ref": "Example 1, Table 21",
+    "doc": "ens",
+    "pdf_page": 54,
+    "printed": "Polyurethane foam (PUF) 0.040 0.023 1.739"
+   }
+  },
+  "single_clear_glass": {
+   "value": {
+    "u": 5.8,
+    "shgc": 0.8,
+    "vlt": 0.85
+   },
+   "ref": "Example 1, Table 17",
+   "doc": "ens",
+   "pdf_page": 51,
+   "printed": "Single clear glass with SHGC 0.80, VLT 85%, and U-value 5.80 W/m2.K"
+  }
+ },
+ "water": {
+  "lphd_20k_100k": {
+   "ref": "Table 1 (2)",
+   "doc": "is1172",
+   "pdf_page": 7,
+   "printed": "20 000 to 100 to 150 lphd 100,000",
+   "value": [
+    100,
+    150
+   ]
+  },
+  "lphd_over_100k": {
+   "ref": "Table 1 (3)",
+   "doc": "is1172",
+   "pdf_page": 7,
+   "printed": "populationabove 100 000 150 to 200 lphd",
+   "value": [
+    150,
+    200
+   ]
+  },
+  "flushing": {
+   "ref": "cl. 4.1.1",
+   "doc": "is1172",
+   "pdf_page": 7,
+   "printed": "45 litres per head per day may be taken for flushing requirements",
+   "value": 45
+  },
+  "runoff_coefficients": {
+   "value": {
+    "gi_sheet": 0.9,
+    "asbestos": 0.8,
+    "tiled": 0.75,
+    "concrete": 0.7
+   },
+   "ref": "Table 7.2",
+   "doc": "cgwb",
+   "pdf_page": 130,
+   "printed": "GI Sheet 0.9 Asbestos 0.8 Tiled 0.75 Concrete 0.7"
+  },
+  "harvest_formula": {
+   "ref": "Section 7.2.7.1",
+   "doc": "cgwb",
+   "pdf_page": 130,
+   "printed": "Water available (in litres) = Annual rainfall (in mm) x Roof area (in sq.m) x Runoff Coefficient"
+  }
+ }
+}

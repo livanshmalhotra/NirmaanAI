@@ -1,0 +1,675 @@
+{
+ "generated": "2026-10-27",
+ "generator": "backend/scripts/build_hazard_data.py",
+ "sources": {
+  "zone_map": {
+   "url": "https://vai.bmtpc.org/map/eqmap/EQ_KARNATAKA.pdf",
+   "sha256": "fd2c38a50ac13acac4399002e7fec0510bf128350d082a249fefbe24d2f1299c",
+   "retrieved": "2026-10-26",
+   "title": "BMTPC Vulnerability Atlas, 3rd Edition — Karnataka Earthquake Hazard Map",
+   "publisher": "Building Materials & Technology Promotion Council, MoHUA, Govt. of India",
+   "basis": "Seismic Zones of India map, IS 1893 (Part 1), BIS; epicentres from IMD; faults from GSI"
+  },
+  "annex_e": {
+   "url": "https://archive.org/download/gov.in.is.1893.1.2016/IS1893%3APart1%3A2016.pdf",
+   "sha256": "b46eca6d221d3dd8c7b68010d5529608a585027b863ddc7cf95d41605a224e75",
+   "retrieved": "2026-10-26",
+   "title": "IS 1893 (Part 1):2016, Annex E",
+   "pdf_page": 38,
+   "publisher": "Bureau of Indian Standards (via Public.Resource.Org)"
+  },
+  "geocoder": "OpenStreetMap Nominatim (https://nominatim.openstreetmap.org)"
+ },
+ "zone3_boundary": [
+  [
+   11.6,
+   76.745
+  ],
+  [
+   11.65,
+   76.625
+  ],
+  [
+   11.7,
+   76.5
+  ],
+  [
+   11.75,
+   76.41
+  ],
+  [
+   11.8,
+   76.34
+  ],
+  [
+   11.85,
+   76.255
+  ],
+  [
+   11.9,
+   76.18
+  ],
+  [
+   11.95,
+   76.095
+  ],
+  [
+   12.0,
+   76.035
+  ],
+  [
+   12.05,
+   75.99
+  ],
+  [
+   12.1,
+   75.93
+  ],
+  [
+   12.15,
+   75.87
+  ],
+  [
+   12.2,
+   75.85
+  ],
+  [
+   12.25,
+   75.815
+  ],
+  [
+   12.3,
+   75.775
+  ],
+  [
+   12.35,
+   75.74
+  ],
+  [
+   12.4,
+   75.715
+  ],
+  [
+   12.45,
+   75.67
+  ],
+  [
+   12.5,
+   75.625
+  ],
+  [
+   12.55,
+   75.6
+  ],
+  [
+   12.6,
+   75.575
+  ],
+  [
+   12.65,
+   75.55
+  ],
+  [
+   12.7,
+   75.535
+  ],
+  [
+   12.75,
+   75.505
+  ],
+  [
+   12.8,
+   75.48
+  ],
+  [
+   12.85,
+   75.46
+  ],
+  [
+   12.9,
+   75.435
+  ],
+  [
+   12.95,
+   75.42
+  ],
+  [
+   13.0,
+   75.395
+  ],
+  [
+   13.05,
+   75.37
+  ],
+  [
+   13.1,
+   75.35
+  ],
+  [
+   13.15,
+   75.34
+  ],
+  [
+   13.2,
+   75.325
+  ],
+  [
+   13.25,
+   75.31
+  ],
+  [
+   13.3,
+   75.295
+  ],
+  [
+   13.35,
+   75.28
+  ],
+  [
+   13.4,
+   75.265
+  ],
+  [
+   13.45,
+   75.27
+  ],
+  [
+   13.5,
+   75.26
+  ],
+  [
+   13.55,
+   75.245
+  ],
+  [
+   13.6,
+   75.235
+  ],
+  [
+   13.65,
+   75.215
+  ],
+  [
+   13.7,
+   75.2
+  ],
+  [
+   13.75,
+   75.185
+  ],
+  [
+   13.8,
+   75.16
+  ],
+  [
+   13.85,
+   75.145
+  ],
+  [
+   13.9,
+   75.13
+  ],
+  [
+   13.95,
+   75.11
+  ],
+  [
+   14.0,
+   75.085
+  ],
+  [
+   14.05,
+   75.03
+  ],
+  [
+   14.1,
+   75.025
+  ],
+  [
+   14.15,
+   74.995
+  ],
+  [
+   14.2,
+   74.97
+  ],
+  [
+   14.25,
+   74.95
+  ],
+  [
+   14.3,
+   74.92
+  ],
+  [
+   14.35,
+   74.9
+  ],
+  [
+   14.4,
+   74.875
+  ],
+  [
+   14.45,
+   74.85
+  ],
+  [
+   14.5,
+   74.835
+  ],
+  [
+   14.55,
+   74.82
+  ],
+  [
+   14.6,
+   74.805
+  ],
+  [
+   14.65,
+   74.78
+  ],
+  [
+   14.7,
+   74.75
+  ],
+  [
+   14.75,
+   74.74
+  ],
+  [
+   14.8,
+   74.705
+  ],
+  [
+   14.85,
+   74.675
+  ],
+  [
+   14.9,
+   74.655
+  ],
+  [
+   14.95,
+   74.63
+  ],
+  [
+   15.0,
+   74.61
+  ],
+  [
+   15.05,
+   74.585
+  ],
+  [
+   15.1,
+   74.565
+  ],
+  [
+   15.15,
+   74.545
+  ],
+  [
+   15.2,
+   74.505
+  ],
+  [
+   15.25,
+   74.485
+  ],
+  [
+   15.3,
+   74.475
+  ],
+  [
+   15.35,
+   74.47
+  ],
+  [
+   15.4,
+   74.455
+  ],
+  [
+   15.45,
+   74.39
+  ],
+  [
+   15.5,
+   74.44
+  ],
+  [
+   15.55,
+   74.44
+  ],
+  [
+   15.6,
+   74.44
+  ],
+  [
+   15.65,
+   74.445
+  ],
+  [
+   15.7,
+   74.455
+  ],
+  [
+   15.75,
+   74.47
+  ],
+  [
+   15.8,
+   74.5
+  ],
+  [
+   15.85,
+   74.505
+  ],
+  [
+   15.9,
+   74.56
+  ],
+  [
+   15.95,
+   74.605
+  ],
+  [
+   16.0,
+   74.645
+  ],
+  [
+   16.05,
+   74.7
+  ],
+  [
+   16.1,
+   74.74
+  ],
+  [
+   16.15,
+   74.815
+  ],
+  [
+   16.2,
+   74.87
+  ],
+  [
+   16.25,
+   74.91
+  ],
+  [
+   16.3,
+   74.955
+  ],
+  [
+   16.35,
+   75.01
+  ],
+  [
+   16.4,
+   75.065
+  ],
+  [
+   16.45,
+   75.11
+  ],
+  [
+   16.5,
+   75.12
+  ],
+  [
+   16.55,
+   75.21
+  ],
+  [
+   16.6,
+   75.25
+  ],
+  [
+   16.65,
+   75.295
+  ],
+  [
+   16.7,
+   75.345
+  ],
+  [
+   16.75,
+   75.38
+  ],
+  [
+   16.8,
+   75.435
+  ],
+  [
+   16.85,
+   75.475
+  ],
+  [
+   16.9,
+   75.535
+  ],
+  [
+   16.95,
+   75.585
+  ],
+  [
+   17.05,
+   75.7
+  ],
+  [
+   17.1,
+   75.75
+  ],
+  [
+   17.15,
+   75.79
+  ],
+  [
+   17.2,
+   75.855
+  ],
+  [
+   17.25,
+   75.91
+  ],
+  [
+   17.3,
+   75.915
+  ],
+  [
+   17.35,
+   75.885
+  ],
+  [
+   17.4,
+   75.67
+  ]
+ ],
+ "map_events": [
+  {
+   "magnitude": 6.5,
+   "year": 1967,
+   "lat": 17.395,
+   "lon": 73.763,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 6.3,
+   "year": 1993,
+   "lat": 18.043,
+   "lon": 76.62,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 6.0,
+   "year": 1843,
+   "lat": 14.975,
+   "lon": 75.999,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.5,
+   "year": 1998,
+   "lat": 16.53,
+   "lon": 78.339,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.3,
+   "year": 2000,
+   "lat": 17.293,
+   "lon": 73.852,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.2,
+   "year": 1967,
+   "lat": 17.332,
+   "lon": 73.962,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.2,
+   "year": 1980,
+   "lat": 17.364,
+   "lon": 73.753,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.2,
+   "year": 2005,
+   "lat": 17.195,
+   "lon": 73.722,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.1,
+   "year": 1967,
+   "lat": 17.165,
+   "lon": 73.732,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.0,
+   "year": 1916,
+   "lat": 12.976,
+   "lon": 76.999,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.0,
+   "year": 1993,
+   "lat": 18.043,
+   "lon": 76.62,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.0,
+   "year": 1993,
+   "lat": 17.972,
+   "lon": 76.4,
+   "located_by": "marker"
+  },
+  {
+   "magnitude": 5.0,
+   "year": 2009,
+   "lat": 17.133,
+   "lon": 73.812,
+   "located_by": "marker"
+  }
+ ],
+ "annex_e_towns": [
+  {
+   "town": "Bangalore (Bengaluru)",
+   "zone": "II",
+   "Z": 0.1,
+   "lat": 12.9768,
+   "lon": 77.5901,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
+  {
+   "town": "Belgaum",
+   "zone": "III",
+   "Z": 0.16,
+   "lat": 15.8573,
+   "lon": 74.5069,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India"
+  },
+  {
+   "town": "Bijapur",
+   "zone": "III",
+   "Z": 0.16,
+   "lat": 16.827,
+   "lon": 75.7175,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Vijayapura, Bijapur Taluk, Vijayapura, Karnataka, 586101, India"
+  },
+  {
+   "town": "Chitradurga",
+   "zone": "II",
+   "Z": 0.1,
+   "lat": 14.2266,
+   "lon": 76.4005,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Chitradurga, Chitradurga taluku, Chitradurga, Karnataka, 577500, India"
+  },
+  {
+   "town": "Dharwad",
+   "zone": "III",
+   "Z": 0.16,
+   "lat": 15.4541,
+   "lon": 75.0067,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Dharwad, Dharawada taluku, Dharwad, Karnataka, 580001, India"
+  },
+  {
+   "town": "Gulbarga",
+   "zone": "II",
+   "Z": 0.1,
+   "lat": 17.331,
+   "lon": 76.8334,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Kalaburagi, Kalaburagi taluku, Kalaburagi, Karnataka, 585101, India"
+  },
+  {
+   "town": "Karwar",
+   "zone": "III",
+   "Z": 0.16,
+   "lat": 14.8122,
+   "lon": 74.1323,
+   "state": "Karnataka",
+   "osm_type": "town",
+   "osm_name": "Karwar, Karwar taluk, Uttara Kannada, Karnataka, 581300, India"
+  },
+{
+   "town": "Mangaluru",
+   "zone": "III",
+   "Z": 0.16,
+   "lat": 12.8698,
+   "lon": 74.843,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  {
+   "town": "Mysuru",
+   "zone": "II",
+   "Z": 0.1,
+   "lat": 12.3052,
+   "lon": 76.6554,
+   "state": "Karnataka",
+   "osm_type": "city",
+   "osm_name": "Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  }
+ ],
+ "annex_e_all_count": 108
+}

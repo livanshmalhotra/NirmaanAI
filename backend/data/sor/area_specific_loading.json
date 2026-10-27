@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "what": "Area Specific Loading (ASL): the percentage KPWD adds to Vol 2 finished rates for work outside the Bangalore division (Vol 2 Preface item 6)",
+    "source": "KPWD SR 2023-24 Volume 1 (Common SR), section 'Area Specific Loading' — NOT in Volume 2",
+    "status": "pending",
+    "how_to_fill": "Enter district_id → percent from Vol 1, e.g. \"mangaluru\": 7.5. Districts left out fall back to the interim regional premium (model/features.py district_cost_multiplier), which is labelled as such in every estimate."
+  },
+  "districts": {}
+}

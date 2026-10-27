@@ -1,0 +1,7250 @@
+[
+ {
+  "sl_no": 1,
+  "description": "AC sheet 6 mm thick corrugated",
+  "unit": "m2",
+  "rate": 160.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 2,
+  "description": "AC sheet 6 mm thick semi corrguated (Trafford)",
+  "unit": "m2",
+  "rate": 175.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 3,
+  "description": "Acid and Alkali resistant tiles 300x300 mm size, 10 mm thick",
+  "unit": "10 No",
+  "rate": 530.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 4,
+  "description": "Acid proof cement",
+  "unit": "kg",
+  "rate": 8.42,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 5,
+  "description": "Acrylic distemper 1st quality having VOC content less than 50 g/ l",
+  "unit": "kg",
+  "rate": 65.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 6,
+  "description": "Acrylic emulsion having VOC content less than 50 g/l",
+  "unit": "L",
+  "rate": 141.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 7,
+  "description": "Acrylic Exterior Paint",
+  "unit": "L",
+  "rate": 250.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 8,
+  "description": "Acrylic Exterior Primer",
+  "unit": "L",
+  "rate": 179.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 9,
+  "description": "Acrylic Polymer based grout",
+  "unit": "kg",
+  "rate": 250.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 10,
+  "description": "Adhesive (General purpose) Bitumen rubbers) kg 270.00",
+  "unit": "kg",
+  "rate": 280.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 12,
+  "description": "Adjustable Vitreous China Cistern with fittings",
+  "unit": "No",
+  "rate": 1600.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 13,
+  "description": "Adjustable Fastening Pawl for vision glass panel",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 14,
+  "description": "Adjustable prop-2.0 x2.0 m",
+  "unit": "No",
+  "rate": 1080.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 15,
+  "description": "Adjustment clip 85x30x0.8mm",
+  "unit": "No",
+  "rate": 5.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 16,
+  "description": "Alignment Bracket",
+  "unit": "No",
+  "rate": 475.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 17,
+  "description": "Alignment Pipe - 3.00 m",
+  "unit": "No",
+  "rate": 995.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 18,
+  "description": "All drive screws ( for gypsum board)",
+  "unit": "100 No",
+  "rate": 58.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 19,
+  "description": "Alluminium anodised profile top cap beading",
+  "unit": "m",
+  "rate": 355.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 20,
+  "description": "Aluminium casement window fastener (Anodised AC 15)",
+  "unit": "No",
+  "rate": 48.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 21,
+  "description": "Aluminium casement window fastener (polyester powder coated)",
+  "unit": "No",
+  "rate": 52.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 22,
+  "description": "Aluminium casement window fastener (powder coated )",
+  "unit": "No",
+  "rate": 53.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 23,
+  "description": "Aluminium composite panel for Straight portion",
+  "unit": "m2",
+  "rate": 3000.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 24,
+  "description": "Aluminium Grill",
+  "unit": "kg",
+  "rate": 300.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 25,
+  "description": "High Pressure Laminate Solid/Dark textured Colored sheets-Single sided",
+  "unit": "m2",
+  "rate": 1900.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 26,
+  "description": "High Pressure Laminate Solid/Dark textured Colored sheets-Double sided",
+  "unit": "m2",
+  "rate": 2400.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 27,
+  "description": "High Pressure Laminate Wooden textured Colored sheets-Single sided",
+  "unit": "m2",
+  "rate": 2150.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 28,
+  "description": "High Pressure Laminate Wooden textured Colored sheets-Double sided",
+  "unit": "m2",
+  "rate": 2550.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 29,
+  "description": "Aluminium Paint",
+  "unit": "L",
+  "rate": 225.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 30,
+  "description": "Aluminium primer",
+  "unit": "L",
+  "rate": 180.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 31,
+  "description": "Aluminium round shape handle (anodised AC 15) outer dia 100 mm No 62.00",
+  "unit": "No",
+  "rate": 60.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 33,
+  "description": "Aluminium round shape handle (powder coated) outer dia 100 mm Corners/ ( for form work) m2 11500.00 (for form work) m2 32000.00 WRB panel/Kicker Panels/door closing panels ( for form work) m2 8500.00",
+  "unit": "No",
+  "rate": 60.0,
+  "page": "A-12",
+  "pdf_page": 13
+ },
+ {
+  "sl_no": 37,
+  "description": "Aluminium Strip 40 mm wide and 2 mm thick",
+  "unit": "kg",
+  "rate": 300.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 38,
+  "description": "Aluminium strips",
+  "unit": "m²",
+  "rate": 254.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 39,
+  "description": "Aluminium strips of size 25/6 mm",
+  "unit": "No",
+  "rate": 16.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 40,
+  "description": "Aluminium T or L sections",
+  "unit": "kg",
+  "rate": 238.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 41,
+  "description": "Aluminium washer 2 mm thick 15 mm dia",
+  "unit": "100 No",
+  "rate": 10.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 42,
+  "description": "Aluminium window frame section 1.2 mm thick",
+  "unit": "kg",
+  "rate": 190.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 43,
+  "description": "Aluminum tower bolts",
+  "unit": "No",
+  "rate": 60.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 44,
+  "description": "Aluminum U Profile (For Edges)",
+  "unit": "m",
+  "rate": 185.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 45,
+  "description": "Anchor Fastener - M10",
+  "unit": "No",
+  "rate": 13.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 46,
+  "description": "Anchor Wing Nut Ø100 mm",
+  "unit": "No",
+  "rate": 80.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 47,
+  "description": "Anodised Aluminium butt hinges 100x75x4 mm",
+  "unit": "10 No",
+  "rate": 393.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 48,
+  "description": "Anodising 15 microns on aluminium sections",
+  "unit": "kg",
+  "rate": 47.5,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 49,
+  "description": "Anodising 25 microns on aluminium sections",
+  "unit": "kg",
+  "rate": 60.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 50,
+  "description": "Anti Dust Tape edged Ceiling tiles 595x595 m2 1000.00",
+  "unit": "m",
+  "rate": 5.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 52,
+  "description": "Anticorrosive & Protective coating - 0.3 kg/m2 for 2 coats",
+  "unit": "kg",
+  "rate": 321.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 53,
+  "description": "Anticorrosive bituminous paint (black)",
+  "unit": "L",
+  "rate": 100.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 54,
+  "description": "Arms GS HD - Self Top Hung -20\"- Type P- Couple",
+  "unit": "pair",
+  "rate": 1350.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 55,
+  "description": "Autoclaved aerated cement (AAC) blocks.",
+  "unit": "m3",
+  "rate": 4683.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 56,
+  "description": "Baker rod",
+  "unit": "m",
+  "rate": 6.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 57,
+  "description": "Ball bearing for rolling shutters",
+  "unit": "No",
+  "rate": 280.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 58,
+  "description": "Bamboo baskets",
+  "unit": "No",
+  "rate": 95.24,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 59,
+  "description": "Basket",
+  "unit": "No",
+  "rate": 2119.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 60,
+  "description": "Bhuthalle Jute",
+  "unit": "kg",
+  "rate": 10.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 61,
+  "description": "Bilwapathre fruit",
+  "unit": "kg",
+  "rate": 10.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 62,
+  "description": "Bitumen washer",
+  "unit": "100 No",
+  "rate": 30.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 63,
+  "description": "Bitumen based Primer",
+  "unit": "L",
+  "rate": 125.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 64,
+  "description": "Bitumen felt :Type 3 grade 1",
+  "unit": "m2",
+  "rate": 212.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 65,
+  "description": "Black plastic seat (solid) with lid C.P .brass hinges and rubber buffers",
+  "unit": "No",
+  "rate": 407.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 66,
+  "description": "Black colour dark shade pigment",
+  "unit": "kg",
+  "rate": 70.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 67,
+  "description": "Black Japan paint",
+  "unit": "L",
+  "rate": 135.0,
+  "page": "A-13",
+  "pdf_page": 14
+ },
+ {
+  "sl_no": 68,
+  "description": "Black Lapotra Granite colour , 18 mm thick (slab area above 0.50 m2)",
+  "unit": "m2",
+  "rate": 1300.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 69,
+  "description": "Blown type petroleum bitumen of penetration 85/25 of approved quality",
+  "unit": "t",
+  "rate": 72400.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 70,
+  "description": "Bolt+Nut - 16 x 30 mm",
+  "unit": "No",
+  "rate": 18.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 71,
+  "description": "Bolt+Nut - 16 x 80 mm",
+  "unit": "No",
+  "rate": 30.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 72,
+  "description": "Bolts and nuts",
+  "unit": "No",
+  "rate": 6.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 73,
+  "description": "Bolts and nuts up to 300 mm in length",
+  "unit": "q",
+  "rate": 5625.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 74,
+  "description": "Bonding plaster for Gypsum panel",
+  "unit": "kg",
+  "rate": 22.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 75,
+  "description": "Border tiles 200x75mm size 5mm thick",
+  "unit": "No",
+  "rate": 16.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 76,
+  "description": "Bottle Trap CP Brass 32 mm size",
+  "unit": "No",
+  "rate": 650.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 77,
+  "description": "Boulder 50 mm to 200 mm",
+  "unit": "m3",
+  "rate": 666.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 78,
+  "description": "Brass brackets (curtain rods) 20 mm",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 79,
+  "description": "Brass brackets (curtain rods) 25 mm",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 80,
+  "description": "Brass fanlight pivot",
+  "unit": "10 No",
+  "rate": 184.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 81,
+  "description": "Brass quadrant stays 300 mm",
+  "unit": "No",
+  "rate": 121.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 82,
+  "description": "Brass screws 25 mm",
+  "unit": "100 No",
+  "rate": 250.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 83,
+  "description": "Brass screws 40 mm",
+  "unit": "100No",
+  "rate": 400.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 84,
+  "description": "Brass screws 50 mm",
+  "unit": "100 No",
+  "rate": 500.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 85,
+  "description": "Brass 150 mm floor door stopper",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 86,
+  "description": "Brass bib-cock 15 mm dia",
+  "unit": "No",
+  "rate": 160.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 87,
+  "description": "Brass bib-cock 20 mm dia",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 88,
+  "description": "Brass butt hinges (heavy type) : 100x85x5.5 mm (0.56 kg)",
+  "unit": "10No",
+  "rate": 1200.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 89,
+  "description": "Brass butt hinges (heavy type) : 125x85x5.5 mm (0.70kg)",
+  "unit": "10No",
+  "rate": 1600.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 90,
+  "description": "Brass butt hinges (heavy type) : 75x65x4.0 mm(0.20 kg)",
+  "unit": "10No",
+  "rate": 1050.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 91,
+  "description": "Brass butt hinges (light/ordinary type) : 100x70x4 mm",
+  "unit": "10No",
+  "rate": 675.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 92,
+  "description": "Brass butt hinges (light/ordinary type) : 125x70x4 mm",
+  "unit": "10No",
+  "rate": 850.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 93,
+  "description": "Brass butt hinges (light/ordinary type) : 50x40x2.5 mm",
+  "unit": "10No",
+  "rate": 300.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 94,
+  "description": "Brass butt hinges (light/ordinary type) : 75x40x2.5 mm",
+  "unit": "10No",
+  "rate": 500.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 95,
+  "description": "Brass chain with hook for fan light catch",
+  "unit": "No",
+  "rate": 39.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 96,
+  "description": "Brass cupboard knob or ward robe knob 50 mm",
+  "unit": "No",
+  "rate": 50.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 97,
+  "description": "Brass cupboard lock 6 levers (best make of approved quality) 40 mm size",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 98,
+  "description": "Brass cupboard lock 6 levers (best make of approved quality) 50 mm size",
+  "unit": "No",
+  "rate": 180.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 99,
+  "description": "Brass cupboard lock 6 levers (best make of approved quality) 65 mm size",
+  "unit": "No",
+  "rate": 190.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 100,
+  "description": "Brass cupboard lock 6 levers (best make of approved quality) 75 mm size",
+  "unit": "No",
+  "rate": 210.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 101,
+  "description": "Brass curtain rod 20 mm dia 1.25 mm thick",
+  "unit": "m",
+  "rate": 154.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 102,
+  "description": "Brass curtain rod 25 mm dia 1.25 mm thick",
+  "unit": "m",
+  "rate": 209.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 103,
+  "description": "Brass double acting spring hinges 100 mm",
+  "unit": "No",
+  "rate": 429.0,
+  "page": "A-14",
+  "pdf_page": 15
+ },
+ {
+  "sl_no": 104,
+  "description": "Brass double acting spring hinges 125 mm",
+  "unit": "No",
+  "rate": 440.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 105,
+  "description": "Brass double acting spring hinges 150 mm",
+  "unit": "No",
+  "rate": 528.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 106,
+  "description": "Brass flush bolt 100 mm",
+  "unit": "No",
+  "rate": 110.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 107,
+  "description": "Brass flush bolt 150 mm",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 108,
+  "description": "Brass flush bolt 250 mm",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 109,
+  "description": "Brass full way valve with C.I. wheel (screwed end) 25 mm dia",
+  "unit": "No",
+  "rate": 375.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 110,
+  "description": "Brass full way valve with C.I. wheel (screwed end) 32 mm dia",
+  "unit": "No",
+  "rate": 415.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 111,
+  "description": "Brass full way valve with C.I. wheel (screwed end) 40 mm dia",
+  "unit": "No",
+  "rate": 500.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 112,
+  "description": "Brass full way valve with C.I. wheel (screwed end) 50 mm dia",
+  "unit": "No",
+  "rate": 625.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 113,
+  "description": "Brass full way valve with C.I. wheel (screwed end) 65 mm dia",
+  "unit": "No",
+  "rate": 1080.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 114,
+  "description": "Brass full way valve with C.I. wheel (screwed end) 80 mm dia",
+  "unit": "No",
+  "rate": 1625.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 115,
+  "description": "Brass handles 100 mm with plate 150x32 mm",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 116,
+  "description": "Brass handles 125 mm with plate 175x32 mm",
+  "unit": "No",
+  "rate": 190.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 117,
+  "description": "Brass handles 75 mm with plate 125x32 mm",
+  "unit": "No",
+  "rate": 135.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 118,
+  "description": "Brass hanging type door stopper",
+  "unit": "No",
+  "rate": 80.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 119,
+  "description": "Brass hard drawn hooks and eyes 100 mm",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 120,
+  "description": "Brass hard drawn hooks and eyes 150 mm",
+  "unit": "No",
+  "rate": 30.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 121,
+  "description": "Brass hard drawn hooks and eyes 200 mm",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 122,
+  "description": "Brass hard drawn hooks and eyes 250 mm",
+  "unit": "No",
+  "rate": 40.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 123,
+  "description": "Brass hard drawn hooks and eyes 300 mm",
+  "unit": "No",
+  "rate": 90.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 124,
+  "description": "Brass helical spring 150 mm",
+  "unit": "No",
+  "rate": 319.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 125,
+  "description": "Brass screws 20 mm",
+  "unit": "100No",
+  "rate": 200.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 126,
+  "description": "Brass single acting spring hinges 100 mm",
+  "unit": "No",
+  "rate": 275.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 127,
+  "description": "Brass single acting spring hinges 125 mm",
+  "unit": "No",
+  "rate": 313.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 128,
+  "description": "Brass single acting spring hinges 150 mm",
+  "unit": "No",
+  "rate": 467.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 129,
+  "description": "Brass stop-cock 15 mm dia",
+  "unit": "No",
+  "rate": 170.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 130,
+  "description": "Brass stop-cock 20 mm dia",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 131,
+  "description": "Brass tower bolt (barrel type) 100x10 mm",
+  "unit": "No",
+  "rate": 125.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 132,
+  "description": "Brass tower bolt (barrel type) 150x10 mm",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 133,
+  "description": "Brass tower bolt (barrel type) 200x10 mm",
+  "unit": "No",
+  "rate": 250.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 134,
+  "description": "Brass tower bolt (barrel type) 250x10 mm",
+  "unit": "No",
+  "rate": 320.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 135,
+  "description": "Breather Tape",
+  "unit": "m",
+  "rate": 25.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 136,
+  "description": "Brick Aggregates",
+  "unit": "m3",
+  "rate": 650.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 137,
+  "description": "Brick bats",
+  "unit": "m3",
+  "rate": 800.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 138,
+  "description": "Bright finished or black enameled mild steel butt hinges 100x58x 1.90 mm",
+  "unit": "10 No",
+  "rate": 120.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 139,
+  "description": "Bright finished or black enamelled mild steel butt hinges 125x65x2.12 mm",
+  "unit": "10 No",
+  "rate": 180.0,
+  "page": "A-15",
+  "pdf_page": 16
+ },
+ {
+  "sl_no": 140,
+  "description": "Bright finished or black enamelled mild steel butt hinges 50x37x1.50mm",
+  "unit": "10 No",
+  "rate": 75.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 141,
+  "description": "Bright finished or black enamelled mild steel butt hinges 75x47x1.70mm",
+  "unit": "10 No",
+  "rate": 110.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 142,
+  "description": "Bright finished or black enamelled mild steel screws 20 mm",
+  "unit": "100No",
+  "rate": 60.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 143,
+  "description": "Bright finished or black enamelled mild steel screws 30 mm",
+  "unit": "100No",
+  "rate": 75.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 144,
+  "description": "Bright finished or black enamelled mild steel screws 40 mm",
+  "unit": "100No",
+  "rate": 100.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 145,
+  "description": "Bright finished or black enamelled mild steel screws 50 mm",
+  "unit": "100No",
+  "rate": 150.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 146,
+  "description": "Bronze multiwall polycarbonate G.E. make",
+  "unit": "m2",
+  "rate": 1070.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 147,
+  "description": "Burnt stone slabs 10cms thick",
+  "unit": "m2",
+  "rate": 1452.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 148,
+  "description": "C Carrier Connector",
+  "unit": "No",
+  "rate": 11.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 149,
+  "description": "C Suspension Clip",
+  "unit": "No",
+  "rate": 8.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 150,
+  "description": "C Wall angle section 20x30x20x0.50 mm (3.00 m long)",
+  "unit": "m",
+  "rate": 95.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 151,
+  "description": "C.I Surface box",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 152,
+  "description": "C.I. bracket for wash basin and sinks",
+  "unit": "Pair",
+  "rate": 110.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 153,
+  "description": "C.I. cover and frame 300x300 mm inside",
+  "unit": "No",
+  "rate": 480.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 154,
+  "description": "C.I. grating 100x100 mm",
+  "unit": "No",
+  "rate": 50.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 155,
+  "description": "C.I. grating 150x150 mm",
+  "unit": "No",
+  "rate": 65.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 156,
+  "description": "C.I. grating 180X180 mm couplings in C.P .brass: 50 mm dia No 238.00 couplings in C.P .brass: 80 mm dia No 281.00",
+  "unit": "No",
+  "rate": 75.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 159,
+  "description": "C.I.mouth, brass ferrule 15 mm dia",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 160,
+  "description": "C.I.mouth, brass ferrule 20 mm dia",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 161,
+  "description": "C.I.mouth, brass ferrule 25 mm dia",
+  "unit": "No",
+  "rate": 281.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 162,
+  "description": "C.P . Brass angle valve 15 mm",
+  "unit": "No",
+  "rate": 438.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 163,
+  "description": "C.P . Brass bibcock 15 mm",
+  "unit": "No",
+  "rate": 450.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 164,
+  "description": "C.P . Brass Centre Hole Basin Mixer With Cast Spout",
+  "unit": "No",
+  "rate": 1800.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 165,
+  "description": "C.P . Brass long body bibcock 15 mm",
+  "unit": "No",
+  "rate": 625.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 166,
+  "description": "C.P . Brass stop cock (concealed) 15 mm",
+  "unit": "No",
+  "rate": 525.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 167,
+  "description": "C.P . brass waste 32 mm",
+  "unit": "No",
+  "rate": 106.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 168,
+  "description": "C.P . brass waste 40 mm",
+  "unit": "No",
+  "rate": 125.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 169,
+  "description": "C.P .brass trap 40 mm dia",
+  "unit": "No",
+  "rate": 315.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 170,
+  "description": "C.P .brass chain with 40 mm dia rubber plug",
+  "unit": "No",
+  "rate": 40.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 171,
+  "description": "C.P .brass toilet paper holder of standard size",
+  "unit": "No",
+  "rate": 350.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 172,
+  "description": "C.P .brass union 40 mm dia",
+  "unit": "No",
+  "rate": 263.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 173,
+  "description": "Cadmium plated full threaded steel screws (30x4 mm dia) thick m2 856.00 panels/tiles kg 26.00 mm dia double threaded 6.8 grade counter sunk head screw comprising of mm dia double threaded 6.8 grade counter sunk head screw comprising of mm dia double threaded 6.8 grade counter sunk head screw comprising of mm dia double threaded 6.8 grade counter sunk head screw comprising of mm dia double threaded 6.8 grade counter sunk head screw comprising of",
+  "unit": "100 No",
+  "rate": 27.0,
+  "page": "A-16",
+  "pdf_page": 17
+ },
+ {
+  "sl_no": 181,
+  "description": "Casement window fastener",
+  "unit": "No",
+  "rate": 49.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 182,
+  "description": "Casurina poles 125 mm diameter (3.65 X 4 )",
+  "unit": "m",
+  "rate": 40.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 183,
+  "description": "Caustic soda",
+  "unit": "kg",
+  "rate": 120.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 184,
+  "description": "Cement asbestos Ridges",
+  "unit": "Pair",
+  "rate": 212.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 185,
+  "description": "Cement Board",
+  "unit": "m²",
+  "rate": 294.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 186,
+  "description": "Cement primer",
+  "unit": "l",
+  "rate": 135.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 187,
+  "description": "Center pully",
+  "unit": "No",
+  "rate": 85.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 188,
+  "description": "Central ball bearing",
+  "unit": "No",
+  "rate": 108.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 189,
+  "description": "Centrifugally cast (spun) iron S&S 100 mm inlet and 100 mm outlet",
+  "unit": "No",
+  "rate": 500.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 190,
+  "description": "Centrifugally cast (spun) iron S&S 100 mm inlet and 75 mm outlet",
+  "unit": "No",
+  "rate": 450.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 191,
+  "description": "Centrifugally sand cast (spun) S&S \"P\" or \"S\" trap White, Ivory, grey, Fuem Red brown etc. m2 495.00 designs except burgundy, bottle green, black m2 495.00",
+  "unit": "No",
+  "rate": 325.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 194,
+  "description": "Ceramic Tiles Pieces for Crazy Flooring m2 400.00 m2 330.00 m2 360.00",
+  "unit": "q",
+  "rate": 510.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 198,
+  "description": "Challies",
+  "unit": "No",
+  "rate": 768.0,
+  "page": "A-17",
+  "pdf_page": 18
+ },
+ {
+  "sl_no": 199,
+  "description": "Channel frames, C frames, H frames",
+  "unit": "kg",
+  "rate": 80.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 200,
+  "description": "Channels and R.S. joists",
+  "unit": "q",
+  "rate": 6800.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 201,
+  "description": "Chemical rust remover chips of size 6mm - Light shade using white cement m2 475.00",
+  "unit": "m²",
+  "rate": 245.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 203,
+  "description": "Chicken mesh",
+  "unit": "m²",
+  "rate": 12.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 204,
+  "description": "Chlordane 20% E.C. required 34.00/ 20=1.70 litres",
+  "unit": "L",
+  "rate": 160.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 205,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 15 mm nominal dia.",
+  "unit": "m",
+  "rate": 59.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 206,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 20 mm nominal dia.",
+  "unit": "m",
+  "rate": 81.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 207,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 25 mm nominal dia.",
+  "unit": "m",
+  "rate": 126.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 208,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 32 mm nominal dia.",
+  "unit": "m",
+  "rate": 177.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 209,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 40 mm nominal dia.",
+  "unit": "m",
+  "rate": 246.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 210,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 50 mm nominal dia.",
+  "unit": "m",
+  "rate": 405.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 211,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 65 mm nominal dia.",
+  "unit": "m",
+  "rate": 793.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 212,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 80 mm nominal dia.",
+  "unit": "m",
+  "rate": 1031.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 213,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 100 mm nominal dia.",
+  "unit": "m",
+  "rate": 1467.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 214,
+  "description": "Chlorinated Polyvinyl - chloride (CPVC) pipe 150 mm nominal dia.",
+  "unit": "m",
+  "rate": 3145.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 215,
+  "description": "Chlorpyriphos 20% E.C. / Lindane 20% E.C.",
+  "unit": "L",
+  "rate": 160.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 216,
+  "description": "Chrominum plated screws",
+  "unit": "10 No",
+  "rate": 16.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 217,
+  "description": "Chromium plated brackets ( curtain rods)",
+  "unit": "No",
+  "rate": 250.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 218,
+  "description": "Chromium plated Brass butt hinges (light/ordinary) type 100x70x4 mm",
+  "unit": "10 No",
+  "rate": 635.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 219,
+  "description": "Chromium plated Brass butt hinges (light/ordinary) type 75x40x2.5 mm",
+  "unit": "10 No",
+  "rate": 381.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 220,
+  "description": "Chromium plated Brass butt hinges (heavy) type 75x65x4 .0 mm (200gms)",
+  "unit": "10 No",
+  "rate": 932.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 221,
+  "description": "Chromium plated Brass butt hinges (light/ordinary) type 125x70x4 mm",
+  "unit": "10 No",
+  "rate": 720.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 222,
+  "description": "Chromium plated Brass butt hinges(light/ordinary) type 50x40x2.5 mm",
+  "unit": "10 No",
+  "rate": 180.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 223,
+  "description": "Chromium plated Brass curtain rod 12 mm dia 1.25mm thick",
+  "unit": "m",
+  "rate": 120.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 224,
+  "description": "Chromium plated Brass curtain rod 20 mm dia 1.25mm thick",
+  "unit": "m",
+  "rate": 155.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 225,
+  "description": "Chromium plated Brass curtain rod 25 mm dia 1.25mm thick",
+  "unit": "m",
+  "rate": 209.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 226,
+  "description": "Chromium plated brass handles",
+  "unit": "No",
+  "rate": 190.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 227,
+  "description": "Chromium plated brass night latch with screws,bolts,nuts and washers complete No 174.00",
+  "unit": "No",
+  "rate": 800.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 229,
+  "description": "Chromium plated brass screws 35 mm long",
+  "unit": "100 No",
+  "rate": 350.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 230,
+  "description": "Chromium plated Mortice latch and lock",
+  "unit": "No",
+  "rate": 850.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 231,
+  "description": "Cinder ballast of 1.5mm thick MS sheet No 55.00",
+  "unit": "m3",
+  "rate": 265.0,
+  "page": "A-18",
+  "pdf_page": 19
+ },
+ {
+  "sl_no": 233,
+  "description": "Circular shape 450 mm dia Mirror with Plastic moulded frame",
+  "unit": "No",
+  "rate": 400.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 234,
+  "description": "Cistern with fittings for Waterless Urinal",
+  "unit": "No",
+  "rate": 2200.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 235,
+  "description": "Clay tiles 230x75x10mm",
+  "unit": "No",
+  "rate": 17.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 236,
+  "description": "Cleat angles",
+  "unit": "No",
+  "rate": 45.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 237,
+  "description": "Coal (steam)",
+  "unit": "q",
+  "rate": 465.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 238,
+  "description": "Coarse sand",
+  "unit": "m3",
+  "rate": 1476.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 239,
+  "description": "Coarse Sand Gravel 1.5 mm to 2 mm",
+  "unit": "m3",
+  "rate": 820.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 240,
+  "description": "Coarse Sand Gravel 5 mm to 10 mm",
+  "unit": "m3",
+  "rate": 815.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 241,
+  "description": "Coconut Broom stick",
+  "unit": "No",
+  "rate": 38.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 242,
+  "description": "Coir brushes cutting brick work m2 700.00",
+  "unit": "No",
+  "rate": 29.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 244,
+  "description": "Colour glazed tiles 15x15 cms 10mm thick capacity controlled low level flushing cistern No 620.00",
+  "unit": "No",
+  "rate": 11.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 246,
+  "description": "Coloured (other than black) solid P .V .C. seat in European W .C. pan",
+  "unit": "No",
+  "rate": 350.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 247,
+  "description": "Coloured Pedestal type W .C. pan 580x440 mm (European type) flushing cistern with all fittings No 1200.00",
+  "unit": "No",
+  "rate": 1300.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 249,
+  "description": "Coloured Vitreous china 10 L low level cistern",
+  "unit": "No",
+  "rate": 775.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 250,
+  "description": "Concrete designer tiles",
+  "unit": "m2",
+  "rate": 323.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 251,
+  "description": "Concrete paver block of grade M-30 made of C&D waste (60mm thickness)",
+  "unit": "m2",
+  "rate": 409.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 252,
+  "description": "Connection Block for vision glass panel",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 253,
+  "description": "Copper plate",
+  "unit": "m2",
+  "rate": 575.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 254,
+  "description": "CP Brass Single lever telephonic wall mixer of approved make",
+  "unit": "No",
+  "rate": 4500.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 255,
+  "description": "Cross tee Prelude 38 24x38x600mm",
+  "unit": "No",
+  "rate": 40.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 256,
+  "description": "Cross Tee 15x42x1200x0.3mm",
+  "unit": "No",
+  "rate": 90.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 257,
+  "description": "Cross Tee 15x42x600x0.3mm",
+  "unit": "No",
+  "rate": 45.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 258,
+  "description": "Cross Tee 24x32x1200x0.33mm",
+  "unit": "No",
+  "rate": 72.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 259,
+  "description": "Cross Tee 24x32x600x0.33mm",
+  "unit": "No",
+  "rate": 36.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 260,
+  "description": "Cross tee Prelude 38 24x38x1200mm",
+  "unit": "No",
+  "rate": 80.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 261,
+  "description": "Cudddapah slab 2.5cms thick",
+  "unit": "m2",
+  "rate": 462.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 262,
+  "description": "Cup lock",
+  "unit": "No",
+  "rate": 48.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 263,
+  "description": "Curtain wall striker for vision glass panel",
+  "unit": "No",
+  "rate": 72.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 264,
+  "description": "Dark Color shade pigment",
+  "unit": "kg",
+  "rate": 70.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 265,
+  "description": "Dash fastner/ chemical fastener",
+  "unit": "each",
+  "rate": 15.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 266,
+  "description": "Dash hold fastener 12.5 mm dia, 40 mm long with 6 mm dia bolt",
+  "unit": "No",
+  "rate": 11.0,
+  "page": "A-19",
+  "pdf_page": 20
+ },
+ {
+  "sl_no": 267,
+  "description": "Debit Pin - 250mm brick work m2 538.00",
+  "unit": "No",
+  "rate": 60.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 269,
+  "description": "Dhoti (worm out soft cotton cloth)",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 270,
+  "description": "Diesel oil",
+  "unit": "L",
+  "rate": 92.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 271,
+  "description": "Dismantled \"P\" or \"S\" trap scrap (app. Wt 2 kg.)",
+  "unit": "kg",
+  "rate": 28.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 272,
+  "description": "Disposable garbage bags size 0.9m x 1.5m",
+  "unit": "No",
+  "rate": 9.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 273,
+  "description": "Distemper primer",
+  "unit": "L",
+  "rate": 85.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 274,
+  "description": "Door lock",
+  "unit": "No",
+  "rate": 348.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 275,
+  "description": "Door spacer 45x45x5-1135mm Long",
+  "unit": "No",
+  "rate": 360.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 276,
+  "description": "Door spacer 45x45x5-985 mm Long",
+  "unit": "No",
+  "rate": 315.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 277,
+  "description": "Double action hydraulic floor spring with brass cover plate",
+  "unit": "No",
+  "rate": 2025.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 278,
+  "description": "Double action hydraulic floor spring with stainless steel cover plate",
+  "unit": "No",
+  "rate": 1875.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 279,
+  "description": "Double coupler Clamp coupler for fixing MS tube with scafolding",
+  "unit": "No",
+  "rate": 46.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 280,
+  "description": "Double sided tape - 1rnm/m2",
+  "unit": "m",
+  "rate": 107.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 281,
+  "description": "Dry distemper",
+  "unit": "kg",
+  "rate": 48.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 282,
+  "description": "Eggs (Gallus Gallus Domesticus)",
+  "unit": "No",
+  "rate": 6.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 283,
+  "description": "Enamel paint",
+  "unit": "L",
+  "rate": 206.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 284,
+  "description": "EPDM Gasket for uPVC window/door",
+  "unit": "m",
+  "rate": 15.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 285,
+  "description": "EPDM Gasket in kg (Above 60 g / m)",
+  "unit": "kg",
+  "rate": 170.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 286,
+  "description": "Epoxy Grout",
+  "unit": "kg",
+  "rate": 415.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 287,
+  "description": "Epoxy Adhesive",
+  "unit": "m",
+  "rate": 550.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 288,
+  "description": "Epoxy based bonding adhesive",
+  "unit": "kg",
+  "rate": 735.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 289,
+  "description": "Epoxy based Primer",
+  "unit": "L",
+  "rate": 300.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 290,
+  "description": "Epoxy Injection Grout @ 0.50kg/nozzle",
+  "unit": "kg",
+  "rate": 799.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 291,
+  "description": "Epoxy Paint",
+  "unit": "L",
+  "rate": 238.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 292,
+  "description": "Epoxy primer",
+  "unit": "L",
+  "rate": 450.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 293,
+  "description": "Expandable fastner with plastic sleeve and M.S Screws 25 mm long",
+  "unit": "No",
+  "rate": 10.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 294,
+  "description": "Expandable fastner with plastic sleeve and M.S. screws. 32 mm long",
+  "unit": "No",
+  "rate": 11.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 295,
+  "description": "Expandable fastner with plastic sleeve and M.S Screws 40 mm long",
+  "unit": "No",
+  "rate": 13.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 296,
+  "description": "Expandable fastner with plastic sleeve and M.S. screws. 50 mm long",
+  "unit": "No",
+  "rate": 14.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 297,
+  "description": "Expandable fastener with plastic sleeve",
+  "unit": "No",
+  "rate": 14.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 298,
+  "description": "Exterior Primer",
+  "unit": "kg",
+  "rate": 179.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 299,
+  "description": "Exterior grade High Pressure Laminate",
+  "unit": "m2",
+  "rate": 2850.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 300,
+  "description": "External corner 825 mm",
+  "unit": "No",
+  "rate": 590.0,
+  "page": "A-20",
+  "pdf_page": 21
+ },
+ {
+  "sl_no": 301,
+  "description": "External corner 2050 mm",
+  "unit": "No",
+  "rate": 1400.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 302,
+  "description": "Extruded polystyrene (XPS) 25mm thick thermal insulating boards",
+  "unit": "m²",
+  "rate": 241.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 303,
+  "description": "Extruded polystyrene (XPS) 50mm thick thermal insulating boards",
+  "unit": "m²",
+  "rate": 466.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 304,
+  "description": "Extruded polystyrene (XPS) 60mm thick thermal insulating boards",
+  "unit": "m²",
+  "rate": 480.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 305,
+  "description": "Extruded polystyrene (XPS) 70mm thick thermal insulating boards",
+  "unit": "m²",
+  "rate": 703.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 306,
+  "description": "Factory made glass reinforced plastic door frame 90x45 mm",
+  "unit": "m",
+  "rate": 480.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 307,
+  "description": "Fiber Glass substrate with Fabric Wall Panels 600 x 600 cement corrugated apron piece m 210.00 cement ventilator curves No 325.00 barge boards 6 mm thick. m 420.00 cement corrugated sheet 6 mm thick m2 235.00 cement plain wing adjustable ridge. m 175.00 cement ridge finial. pair 175.00 cement special north light curves. No 585.00 cement eaves filler piece. No 185.00 cement conjugated serrated adjustable ridge. m 210.00 cement north light curves. m 295.00",
+  "unit": "m2",
+  "rate": 3725.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 319,
+  "description": "Fire clay kitchen sink: 600x450x250 mm",
+  "unit": "No",
+  "rate": 1500.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 320,
+  "description": "First class kail wood in planks",
+  "unit": "10 cudm",
+  "rate": 375.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 321,
+  "description": "Flame retardent face insulating board: 12 mm thick",
+  "unit": "m2",
+  "rate": 336.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 322,
+  "description": "Flame retardent face insulating, Impregnated fibre board 12 mm thick",
+  "unit": "m2",
+  "rate": 425.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 323,
+  "description": "Flashings",
+  "unit": "No",
+  "rate": 225.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 324,
+  "description": "Flat pressed 3 layer particle board (medium density) Grade I :12 mm thick",
+  "unit": "m2",
+  "rate": 303.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 325,
+  "description": "Flat Washer Ø16, 3mm thick",
+  "unit": "No",
+  "rate": 5.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 326,
+  "description": "Flat head bolt for brackets of spider glazing",
+  "unit": "No",
+  "rate": 670.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 327,
+  "description": "Flats up to 10 mm in thickness",
+  "unit": "q",
+  "rate": 6062.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 328,
+  "description": "Flats exceeding 10 mm in thickness with length not less than 700 mm i/c PVC waste fittings No 44.00 m²). m² 389.00 kg/m2) m2 628.00 kg/m2) m2 529.00",
+  "unit": "q",
+  "rate": 6187.0,
+  "page": "A-21",
+  "pdf_page": 22
+ },
+ {
+  "sl_no": 333,
+  "description": "Floor enamel paint in all shades except green water closet including integrated white vitreous china cistern of capacity seat cover , cistern fittings, nuts, bolts and gasket No 9800.00",
+  "unit": "L",
+  "rate": 293.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 335,
+  "description": "Flush pipe and spreaders G.I.for single set of one squatting plate urinal",
+  "unit": "No",
+  "rate": 238.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 336,
+  "description": "Flush pipe and spreaders G.I.for range of two squatting plates urinal",
+  "unit": "No",
+  "rate": 344.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 337,
+  "description": "Flush pipe and spreaders G.I.for range of three squatting plates urinal",
+  "unit": "No",
+  "rate": 410.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 338,
+  "description": "Flush pipe and spreaders G.I.for range of four squatting plates urinal stall No 532.00 four stall No 700.00 three stall No 656.00",
+  "unit": "No",
+  "rate": 563.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 342,
+  "description": "Flush pipe with union spreaders and clamps all in C.P . brass for single stall accessories and flush pipe) No 625.00",
+  "unit": "No",
+  "rate": 337.5,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 344,
+  "description": "Flyash Bricks conforming to IS 12894",
+  "unit": "No",
+  "rate": 7.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 345,
+  "description": "Food grade Epoxy coating",
+  "unit": "L",
+  "rate": 225.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 346,
+  "description": "FPO Membrane - 1 m/rnm",
+  "unit": "m",
+  "rate": 647.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 347,
+  "description": "Frame size 65x100mm",
+  "unit": "m",
+  "rate": 545.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 348,
+  "description": "Frame size 65x125mm",
+  "unit": "m",
+  "rate": 595.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 349,
+  "description": "Frame size 65x150mm",
+  "unit": "m",
+  "rate": 630.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 350,
+  "description": "Fuel wood tiles 595x595mm m2 1010.00",
+  "unit": "q",
+  "rate": 625.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 352,
+  "description": "G.I Ceiling Section (80 x26mm x26mm x10.5mm No lip x 0.55 mm)",
+  "unit": "m",
+  "rate": 46.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 353,
+  "description": "G.I. inlet connection",
+  "unit": "No",
+  "rate": 87.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 354,
+  "description": "G.I. Limpet washer",
+  "unit": "100 No",
+  "rate": 21.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 355,
+  "description": "G.I. plain washer thick",
+  "unit": "100 No",
+  "rate": 35.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 356,
+  "description": "G.I. back (jam) nuts 25 mm dia",
+  "unit": "No",
+  "rate": 23.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 357,
+  "description": "G.I. back (jam) nuts 65 mm dia Single lipped urinal No 450.00 of two lipped urinals No 485.00 of four lipped urinals No 550.00 of three lipped urinals No 500.00",
+  "unit": "No",
+  "rate": 31.0,
+  "page": "A-22",
+  "pdf_page": 23
+ },
+ {
+  "sl_no": 362,
+  "description": "G.I. pipes 40 mm dia",
+  "unit": "m",
+  "rate": 363.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 363,
+  "description": "G.I. tees (equal) 25 mm",
+  "unit": "No",
+  "rate": 81.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 364,
+  "description": "G.I. tees (equal) 65 mm",
+  "unit": "No",
+  "rate": 565.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 365,
+  "description": "G.I. Union 15 mm nominal bore",
+  "unit": "No",
+  "rate": 44.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 366,
+  "description": "G.I. Union 20 mm nominal bore",
+  "unit": "No",
+  "rate": 68.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 367,
+  "description": "G.I. Union 25 mm nominal bore",
+  "unit": "No",
+  "rate": 144.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 368,
+  "description": "G.I. Union 32 mm nominal bore",
+  "unit": "No",
+  "rate": 181.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 369,
+  "description": "G.I. Union 40 mm nominal bore",
+  "unit": "No",
+  "rate": 288.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 370,
+  "description": "G.I. Union 50 mm nominal bore",
+  "unit": "No",
+  "rate": 388.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 371,
+  "description": "G.I. Union 65 mm nominal bore",
+  "unit": "No",
+  "rate": 719.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 372,
+  "description": "G.I. Union 80 mm nominal bore with slots with slots No 9.00",
+  "unit": "No",
+  "rate": 750.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 375,
+  "description": "Galvanised Steel ceiling section (size 80x26x0.50mm)",
+  "unit": "m",
+  "rate": 46.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 376,
+  "description": "Galvanised Steel connecting clips (2.64mm dia and 230 mm long GI wire)",
+  "unit": "No",
+  "rate": 4.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 377,
+  "description": "Galvanised steel corrugated sheets hanger m 38.00 (1.2 m long) No 40.00 ( 0.6 m long) No 20.00",
+  "unit": "q",
+  "rate": 5880.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 381,
+  "description": "Galvanised steel plain sheets",
+  "unit": "q",
+  "rate": 5250.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 382,
+  "description": "Galvanised Steel soffit cleat (Size 27x37x25x0.60mm)",
+  "unit": "No",
+  "rate": 3.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 383,
+  "description": "Galvanised steel turn buckles m 125.00",
+  "unit": "No",
+  "rate": 28.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 385,
+  "description": "Galvanised M.S sheet 0.5mm thick pressed stud of size 48x34x36mm",
+  "unit": "m",
+  "rate": 150.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 386,
+  "description": "Galvanised Steel angle hanger (Ceiling angle) (Size 25x10x0.50mm)",
+  "unit": "m",
+  "rate": 12.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 387,
+  "description": "Galvanised steel barbed wire threaded with 4 galvanised steel nuts No 20.00",
+  "unit": "q",
+  "rate": 6500.0,
+  "page": "A-23",
+  "pdf_page": 24
+ },
+ {
+  "sl_no": 389,
+  "description": "Galvanised steel bolts 10 mm dia and 7 cm long with nuts",
+  "unit": "No",
+  "rate": 6.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 390,
+  "description": "Galvanised steel J or L hooks 8 mm dia long) No 120.00",
+  "unit": "10 No",
+  "rate": 150.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 392,
+  "description": "Galvanised Steel perim Channel (Size 20x27x30x0.50mm) long) No 65.00 dia of wire 0.63 mm m2 280.00",
+  "unit": "m",
+  "rate": 22.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 395,
+  "description": "Geotextile 60 gsm",
+  "unit": "m2",
+  "rate": 28.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 396,
+  "description": "Geotextile 120 gsm",
+  "unit": "m2",
+  "rate": 32.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 397,
+  "description": "GI Anchor Fastner with hanger hole for the wire",
+  "unit": "No",
+  "rate": 10.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 398,
+  "description": "GI flashing - 1.2 mm Thick",
+  "unit": "kg",
+  "rate": 74.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 399,
+  "description": "GI Hook clip with J wire Assembly m2 846.00 m2 894.00 m2 765.00",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 403,
+  "description": "GI Pre straightened Wire 2.5mm Dia 1.8m Length",
+  "unit": "No",
+  "rate": 15.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 404,
+  "description": "GI sheet 0.8 mm thick confirming to IS 277:1992",
+  "unit": "kg",
+  "rate": 75.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 405,
+  "description": "GI Wire mesh 100x100 mm (Specialized)",
+  "unit": "kg",
+  "rate": 70.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 406,
+  "description": "GI/Aluminium Sheet (0.8 mm thick)",
+  "unit": "kg",
+  "rate": 75.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 407,
+  "description": "Glass wool of density @ 48 kg /m3 with black glass tissue (BGT)",
+  "unit": "m²",
+  "rate": 250.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 408,
+  "description": "Glasswool of 50mm thick with density 16 kg/m3",
+  "unit": "m2",
+  "rate": 200.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 409,
+  "description": "Glue",
+  "unit": "kg",
+  "rate": 94.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 410,
+  "description": "Granite of any colour , 18 mm thick (slab area above 0.50 m2)",
+  "unit": "m2",
+  "rate": 1700.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 411,
+  "description": "Granite stone slab 100 mm and 150 mm thick (un-dressed)",
+  "unit": "m²",
+  "rate": 450.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 412,
+  "description": "Granitic finish Paint - (Allura Graniza make)",
+  "unit": "kg",
+  "rate": 264.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 413,
+  "description": "Green or blue medium shade pigment",
+  "unit": "kg",
+  "rate": 56.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 414,
+  "description": "Gully Trap 10cms x 10cms",
+  "unit": "No",
+  "rate": 250.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 415,
+  "description": "Gun metal cramp",
+  "unit": "kg",
+  "rate": 315.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 416,
+  "description": "Gunmetal non-return valve-horizontal (screwed end) 25 mm dia",
+  "unit": "No",
+  "rate": 438.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 417,
+  "description": "Gunmetal non-return valve-horizontal (screwed end) 32 mm dia",
+  "unit": "No",
+  "rate": 594.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 418,
+  "description": "Gunmetal non-return valve-horizontal (screwed end) 40 mm dia",
+  "unit": "No",
+  "rate": 719.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 419,
+  "description": "Gunmetal non-return valve-horizontal (screwed end) 50 mm dia",
+  "unit": "No",
+  "rate": 1050.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 420,
+  "description": "Gunmetal non-return valve-horizontal (screwed end) 65 mm dia",
+  "unit": "No",
+  "rate": 1906.0,
+  "page": "A-24",
+  "pdf_page": 25
+ },
+ {
+  "sl_no": 421,
+  "description": "Gunmetal non-return valve-horizontal (screwed end) 80 mm dia",
+  "unit": "No",
+  "rate": 2875.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 422,
+  "description": "Gunmetal non-return valve-vertical (screwed end) 25 mm dia",
+  "unit": "No",
+  "rate": 500.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 423,
+  "description": "Gunmetal non-return valve-vertical (screwed end) 32 mm dia",
+  "unit": "No",
+  "rate": 690.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 424,
+  "description": "Gunmetal non-return valve-vertical (screwed end) 40 mm dia",
+  "unit": "No",
+  "rate": 938.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 425,
+  "description": "Gunmetal non-return valve-vertical (screwed end) 50 mm dia",
+  "unit": "No",
+  "rate": 1188.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 426,
+  "description": "Gunmetal non-return valve-vertical (screwed end) 65 mm dia",
+  "unit": "No",
+  "rate": 1938.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 427,
+  "description": "Gunmetal non-return valve-vertical (screwed end) 80 mm dia m2 469.00",
+  "unit": "No",
+  "rate": 3250.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 429,
+  "description": "Gypsum panel 666 X 500 X 100 mm size.",
+  "unit": "m2",
+  "rate": 500.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 430,
+  "description": "H.P . or L.P . ball valve with polythene floats: 15 mm dia",
+  "unit": "No",
+  "rate": 170.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 431,
+  "description": "H.P . or L.P . ball valve with polythene floats: 20 mm dia",
+  "unit": "No",
+  "rate": 185.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 432,
+  "description": "H.P . or L.P . ball valve with polythene floats: 25 mm dia",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 433,
+  "description": "Handles (pair)",
+  "unit": "No",
+  "rate": 60.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 434,
+  "description": "Hanger rod 4 mm thick",
+  "unit": "No",
+  "rate": 8.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 435,
+  "description": "Hard board 6 mm thick 600x450 mm Wooden cleats",
+  "unit": "m2",
+  "rate": 150.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 436,
+  "description": "Hardening compound",
+  "unit": "L",
+  "rate": 370.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 437,
+  "description": "HDPE membrane glass both side having 12 mm air gap m2 2750.00",
+  "unit": "m2",
+  "rate": 300.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 439,
+  "description": "Hessian cloth for using in tiles as reinforcement with 5% wastage",
+  "unit": "m2",
+  "rate": 35.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 440,
+  "description": "High polymer modified quickset tile adhesive.",
+  "unit": "kg",
+  "rate": 9.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 441,
+  "description": "High Albedo paint having minimum Solar Reflective Index (SRI) 108",
+  "unit": "kg",
+  "rate": 375.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 442,
+  "description": "High tension coil",
+  "unit": "No",
+  "rate": 678.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 443,
+  "description": "Hinges",
+  "unit": "No",
+  "rate": 38.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 444,
+  "description": "Hold fasts",
+  "unit": "No",
+  "rate": 50.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 445,
+  "description": "Hollock wood in scantling",
+  "unit": "10 cudm",
+  "rate": 357.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 446,
+  "description": "Honne Wood",
+  "unit": "m3",
+  "rate": 98900.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 447,
+  "description": "Honne wood beading 10 mm wide",
+  "unit": "m",
+  "rate": 25.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 448,
+  "description": "Honne wood beading 20x20 mm",
+  "unit": "m",
+  "rate": 55.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 449,
+  "description": "Horizontal Perforated blocks of size 400x200x200 mm",
+  "unit": "No",
+  "rate": 50.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 450,
+  "description": "Hose pipe 30m length mm outlet as per IS 15905 No 385.00 mm outlet as per IS 15905 No 540.00",
+  "unit": "No",
+  "rate": 703.39,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 453,
+  "description": "Hydraulic door closer",
+  "unit": "No",
+  "rate": 850.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 454,
+  "description": "Impaler Vitreous Urinal No 4500.00",
+  "unit": "No",
+  "rate": 42.0,
+  "page": "A-25",
+  "pdf_page": 26
+ },
+ {
+  "sl_no": 456,
+  "description": "Instant leak plug @ 0.20kg/nozzle",
+  "unit": "kg",
+  "rate": 108.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 457,
+  "description": "Integral Crystalline Admixture",
+  "unit": "kg",
+  "rate": 100.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 458,
+  "description": "Intermediate cross T -section 24x25x0.3mm (0.6 mtrs long)",
+  "unit": "No",
+  "rate": 17.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 459,
+  "description": "Intermediate cross T -section 24x25x0.3mm (1.2 mtrs long)",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 460,
+  "description": "Iron pintels including welded pin kg 65.00",
+  "unit": "No",
+  "rate": 37.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 462,
+  "description": "Jaggery",
+  "unit": "kg",
+  "rate": 30.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 463,
+  "description": "Joint filler",
+  "unit": "kg",
+  "rate": 26.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 464,
+  "description": "Joint finisher",
+  "unit": "kg",
+  "rate": 23.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 466,
+  "description": "Jungle wood reepers 50x25 mm",
+  "unit": "m",
+  "rate": 30.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 467,
+  "description": "Jungle wood scantling",
+  "unit": "m3",
+  "rate": 29100.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 468,
+  "description": "Kadukkai",
+  "unit": "kg",
+  "rate": 12.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 469,
+  "description": "Kerosene oil",
+  "unit": "L",
+  "rate": 73.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 470,
+  "description": "L. Bracket",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 471,
+  "description": "Lakared Granite",
+  "unit": "m2",
+  "rate": 2200.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 472,
+  "description": "Laterite",
+  "unit": "m³",
+  "rate": 1780.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 473,
+  "description": "Laterite cladding tiles 230x75x10mm",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 474,
+  "description": "Light house polish GI Plain T24 Grid m2 885.00 m2 925.00 m2 925.00",
+  "unit": "L",
+  "rate": 190.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 478,
+  "description": "Lime",
+  "unit": "kg",
+  "rate": 6.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 479,
+  "description": "Lime mortar of mix 1:1 (1 lime putty : 1 sand)",
+  "unit": "m³",
+  "rate": 2650.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 480,
+  "description": "Lime mortar of mix 1:2 (1 lime putty : 2 sand)",
+  "unit": "m³",
+  "rate": 2680.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 481,
+  "description": "Lime mortar of mix 1:3 (1 lime putty : 3 sand)",
+  "unit": "m³",
+  "rate": 2750.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 482,
+  "description": "Linolium sheet or tile 30 cmsx30cms",
+  "unit": "m2",
+  "rate": 538.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 483,
+  "description": "Linseed oil (double boiled)",
+  "unit": "L",
+  "rate": 200.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 484,
+  "description": "Liquid Ammonia 5%",
+  "unit": "L",
+  "rate": 160.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 485,
+  "description": "Louvered ventilator upvc",
+  "unit": "m2",
+  "rate": 4500.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 486,
+  "description": "M.S Tube 19mm x 19 mm 19 Gauge",
+  "unit": "m",
+  "rate": 95.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 487,
+  "description": "M.S. bail plug 100 mm dia",
+  "unit": "No",
+  "rate": 160.0,
+  "page": "A-26",
+  "pdf_page": 27
+ },
+ {
+  "sl_no": 488,
+  "description": "M.S. bail plug 150 mm dia",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 489,
+  "description": "M.S. bail plug 200 mm dia",
+  "unit": "No",
+  "rate": 220.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 490,
+  "description": "M.S. cap 100 mm dia",
+  "unit": "No",
+  "rate": 135.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 491,
+  "description": "M.S. cap 150 mm dia",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 492,
+  "description": "M.S. cap 200 mm dia",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 493,
+  "description": "M.S. flat 30 cmx25mmx3mm",
+  "unit": "kg",
+  "rate": 49.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 494,
+  "description": "M.S. pipe 100 mm dia casing pipe",
+  "unit": "No",
+  "rate": 780.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 495,
+  "description": "M.S. pipe 150 mm dia casing pipe",
+  "unit": "No",
+  "rate": 1126.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 496,
+  "description": "M.S. pipe 200 mm dia casing pipe",
+  "unit": "No",
+  "rate": 1400.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 497,
+  "description": "M.S. socket 100 mm dia",
+  "unit": "m2",
+  "rate": 125.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 498,
+  "description": "M.S. socket 150 mm dia",
+  "unit": "m2",
+  "rate": 150.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 499,
+  "description": "M.S. socket 200 mm dia",
+  "unit": "m2",
+  "rate": 180.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 500,
+  "description": "Magnetic catcher triple type",
+  "unit": "No",
+  "rate": 30.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 501,
+  "description": "Main T ceiling sections 24x38x0.3 mm (3 m long)",
+  "unit": "No",
+  "rate": 115.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 502,
+  "description": "Main C Carrier Size 10x38x10x0.70 mm (3.00 m long)",
+  "unit": "m",
+  "rate": 115.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 503,
+  "description": "Mangalore tiles first class and special tile for ridges and hips",
+  "unit": "No",
+  "rate": 13.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 504,
+  "description": "Manually operated Bevel Gear Box for operating rolling shutters",
+  "unit": "No",
+  "rate": 2500.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 505,
+  "description": "Marking with paint i/c removal of existing markings",
+  "unit": "m2",
+  "rate": 400.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 506,
+  "description": "Masking tape",
+  "unit": "m",
+  "rate": 2.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 507,
+  "description": "Mathi wood beading 10 mm wide",
+  "unit": "m",
+  "rate": 22.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 508,
+  "description": "Mathi Wood or Nandi Wood",
+  "unit": "m3",
+  "rate": 88300.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 509,
+  "description": "Mathi Wood beeding 20 X 20 wide",
+  "unit": "m",
+  "rate": 50.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 510,
+  "description": "MDF panel filling 18/19 mm thick",
+  "unit": "m2",
+  "rate": 900.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 511,
+  "description": "Melamine Matt clear polish",
+  "unit": "L",
+  "rate": 300.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 512,
+  "description": "Melamine Polish",
+  "unit": "L",
+  "rate": 375.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 513,
+  "description": "Melamine solvent/thinner",
+  "unit": "L",
+  "rate": 120.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 514,
+  "description": "Melamine wood filler putty",
+  "unit": "kg",
+  "rate": 120.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 515,
+  "description": "Melamine wood sealer",
+  "unit": "L",
+  "rate": 190.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 516,
+  "description": "Metal Primer (U.G.)",
+  "unit": "L",
+  "rate": 157.5,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 517,
+  "description": "Methylated spirit",
+  "unit": "L",
+  "rate": 80.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 518,
+  "description": "Micro Alloyed High Carbon steel",
+  "unit": "kg",
+  "rate": 90.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 519,
+  "description": "Mild steel ties",
+  "unit": "q",
+  "rate": 5900.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 520,
+  "description": "Mild steel bolts 6 mm dia and 25 mm long with hexagonal head",
+  "unit": "10 No",
+  "rate": 10.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 521,
+  "description": "Mild steel hooks",
+  "unit": "No",
+  "rate": 32.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 522,
+  "description": "Mild steel plates",
+  "unit": "q",
+  "rate": 6100.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 523,
+  "description": "Mild steel rivets",
+  "unit": "q",
+  "rate": 6200.0,
+  "page": "A-27",
+  "pdf_page": 28
+ },
+ {
+  "sl_no": 524,
+  "description": "Mild steel round bar 12 mm dia and below",
+  "unit": "q",
+  "rate": 6100.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 525,
+  "description": "Mild steel round bar 6 mm dia",
+  "unit": "q",
+  "rate": 5900.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 526,
+  "description": "Mild steel round bar above 12 mm dia",
+  "unit": "q",
+  "rate": 5938.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 527,
+  "description": "Mild steel screws",
+  "unit": "10No",
+  "rate": 10.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 528,
+  "description": "Mild steel sheets of 1.00 mm thickness for tanks",
+  "unit": "q",
+  "rate": 5850.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 529,
+  "description": "Mild steel sheets with bolts and nuts to rest on pintels",
+  "unit": "No",
+  "rate": 120.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 530,
+  "description": "Mild steel tubes electric resistant or induction butt welded ERW",
+  "unit": "kg",
+  "rate": 50.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 531,
+  "description": "Mild steel tubes hot finished seamless type",
+  "unit": "kg",
+  "rate": 70.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 532,
+  "description": "Mild steel tubes hot finished welded type",
+  "unit": "kg",
+  "rate": 61.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 533,
+  "description": "Mineral fibre Angled tegular edge ceiling tiles 595 x 595 and 16 mm thick",
+  "unit": "m2",
+  "rate": 1360.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 534,
+  "description": "Mineral fibre ceiling tiles 595 x 595 and 19 mm thick",
+  "unit": "m2",
+  "rate": 1150.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 535,
+  "description": "Mirror of superior make glass 60x45 cm",
+  "unit": "No",
+  "rate": 550.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 536,
+  "description": "Mirror polished granite (> 0.5m2)",
+  "unit": "m2",
+  "rate": 2200.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 537,
+  "description": "Mirror polished granite (upto 0.5m2)",
+  "unit": "m2",
+  "rate": 2000.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 538,
+  "description": "Mop stick- aluminium",
+  "unit": "No",
+  "rate": 102.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 539,
+  "description": "Mosquito proof coupling",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 540,
+  "description": "MS Brackets/Aluminium Alloy Brackets",
+  "unit": "kg",
+  "rate": 110.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 541,
+  "description": "MS clamps",
+  "unit": "No",
+  "rate": 56.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 542,
+  "description": "MS handles",
+  "unit": "No",
+  "rate": 55.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 543,
+  "description": "Multi Floor Trap 10.0 cm X 7.5 cm X 5.0 cm X 4.0 cm",
+  "unit": "No",
+  "rate": 167.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 544,
+  "description": "Multi purpose cement bonded wood particle board 6 mm thick 200 wide",
+  "unit": "m2",
+  "rate": 165.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 545,
+  "description": "Multi surface paint fibres cement board 6 mm thick m2 220.00",
+  "unit": "L",
+  "rate": 450.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 547,
+  "description": "Nahani Trap 10cms x 10cms",
+  "unit": "No",
+  "rate": 148.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 548,
+  "description": "Nails and screws",
+  "unit": "kg",
+  "rate": 67.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 549,
+  "description": "Nandiwood reepers 50x25 mm",
+  "unit": "m",
+  "rate": 59.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 550,
+  "description": "Natural colour insulating board: 12 mm",
+  "unit": "m2",
+  "rate": 220.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 551,
+  "description": "Nickel plated mild steel piano hinges 1 mm thick 35 mm wide",
+  "unit": "m",
+  "rate": 75.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 552,
+  "description": "Nickel plated mild steel piano hinges 1 mm thick 65 mm wide",
+  "unit": "m",
+  "rate": 115.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 553,
+  "description": "Nickel plated mild steel piano hinges 1 mm thick 50 mm wide",
+  "unit": "m",
+  "rate": 90.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 554,
+  "description": "Nickle plated M.S. Brackets for curtain rod 20 mm",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 555,
+  "description": "Nickle plated M.S. pipe 20 mm dia.",
+  "unit": "m",
+  "rate": 84.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 556,
+  "description": "Nickle plated M.S. pipe 25 mm dia. reinforced) cement board 6mm thick. 200 mm wide m2 175.00",
+  "unit": "m",
+  "rate": 100.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 558,
+  "description": "Non Asbestos cement roofing sheet doom thickness 1mm and total weight not less than 5.2kg No 3500.00 doom thickness 1mm and total weight not less than 6kg for Industrial use for area upto 50m2 No 3600.00 doom thickness 1mm and total weight not less than 6kg for Industrial use for area upto 100m2 No 3750.00",
+  "unit": "m2",
+  "rate": 435.0,
+  "page": "A-28",
+  "pdf_page": 29
+ },
+ {
+  "sl_no": 562,
+  "description": "Non staining water resistant Clear silicon",
+  "unit": "m",
+  "rate": 65.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 563,
+  "description": "Northlight adjustable ridges of 1.22 m",
+  "unit": "Pair",
+  "rate": 143.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 564,
+  "description": "Nuts and bolts",
+  "unit": "kg",
+  "rate": 42.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 569,
+  "description": "Oil type wood preservative",
+  "unit": "L",
+  "rate": 130.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 570,
+  "description": "Openable window made out of multi chambered upvc size – 900mm x 2400mm m2 4900.00",
+  "unit": "m2",
+  "rate": 4750.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 572,
+  "description": "Ordinary varnish moulded frame No 330.00",
+  "unit": "L",
+  "rate": 150.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 574,
+  "description": "Oxidised mild steel double acting spring hinges 100mm",
+  "unit": "No",
+  "rate": 160.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 575,
+  "description": "Oxidised mild steel double acting spring hinges 125 mm",
+  "unit": "No",
+  "rate": 180.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 576,
+  "description": "Oxidised mild steel double acting spring hinges 150 mm",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 577,
+  "description": "Oxidised mild steel handles 75 mm",
+  "unit": "No",
+  "rate": 20.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 578,
+  "description": "Oxidised mild steel handles 100 mm",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 579,
+  "description": "Oxidised mild steel handles 125 mm",
+  "unit": "No",
+  "rate": 30.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 580,
+  "description": "Oxidised mild steel single acting spring hinges 100 mm",
+  "unit": "No",
+  "rate": 130.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 581,
+  "description": "Oxidised mild steel single acting spring hinges 125 mm",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 582,
+  "description": "Oxidised mild steel single acting spring hinges 150 mm",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 583,
+  "description": "Oxidised mild steel tower bolt (barrel type) 250x10 mm",
+  "unit": "No",
+  "rate": 55.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 584,
+  "description": "Oxidised mild steel screws 25mm",
+  "unit": "100No",
+  "rate": 50.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 585,
+  "description": "Oxidised mild steel screws 30mm",
+  "unit": "100No",
+  "rate": 60.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 586,
+  "description": "Oxidised mild steel screws 40mm",
+  "unit": "100No",
+  "rate": 125.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 587,
+  "description": "Oxidised mild steel screws 50mm",
+  "unit": "100No",
+  "rate": 150.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 588,
+  "description": "Oxidised Mild Steel Door Latch 250 mm",
+  "unit": "each",
+  "rate": 60.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 589,
+  "description": "P Trap 10cms x 10cms",
+  "unit": "No",
+  "rate": 220.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 590,
+  "description": "P .T .M.T . Urinal cock 15mm dia",
+  "unit": "No",
+  "rate": 115.0,
+  "page": "A-29",
+  "pdf_page": 30
+ },
+ {
+  "sl_no": 591,
+  "description": "P .T .M.T . Bib cock with nozzle 15mm",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 592,
+  "description": "P .T .M.T . extension nipple 15mm",
+  "unit": "No",
+  "rate": 22.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 593,
+  "description": "P .T .M.T . extension nipple 20mm",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 594,
+  "description": "P .T .M.T . extension nipple 25mm",
+  "unit": "No",
+  "rate": 55.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 595,
+  "description": "P .T .M.T . Stop cock (concealed) 15mm",
+  "unit": "No",
+  "rate": 135.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 596,
+  "description": "P .V .C. automatic flushing cistern 5 L capacity",
+  "unit": "No",
+  "rate": 450.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 597,
+  "description": "PVC sheet 5mm",
+  "unit": "m2",
+  "rate": 350.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 598,
+  "description": "PVC sheet 5 mm (semi finished)",
+  "unit": "m2",
+  "rate": 300.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 599,
+  "description": "Paint remover",
+  "unit": "L",
+  "rate": 150.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 600,
+  "description": "Panels - 12 mm thick multi-cell polycarbonate panels system",
+  "unit": "m2",
+  "rate": 2375.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 601,
+  "description": "Panels - 16 mm thick multi-cell polycarbonate panels system",
+  "unit": "m2",
+  "rate": 2600.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 602,
+  "description": "Panels - 18 mm thick multi-cell polycarbonate panels system",
+  "unit": "m2",
+  "rate": 2850.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 603,
+  "description": "Panels filled with MDF board 18 mm thick",
+  "unit": "m2",
+  "rate": 700.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 604,
+  "description": "Pea Gravel",
+  "unit": "m3",
+  "rate": 910.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 605,
+  "description": "Perimeter wall angle 24x24x0.3mm (3 m long)",
+  "unit": "No",
+  "rate": 80.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 606,
+  "description": "Pesticides (Chloropyriphos equivalent)",
+  "unit": "L",
+  "rate": 155.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 607,
+  "description": "Pigment",
+  "unit": "kg",
+  "rate": 50.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 608,
+  "description": "Pink primer (for wood)",
+  "unit": "L",
+  "rate": 131.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 609,
+  "description": "Pivots (pair)",
+  "unit": "No",
+  "rate": 466.1,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 610,
+  "description": "Plaster of paris",
+  "unit": "kg",
+  "rate": 6.25,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 611,
+  "description": "Plastic acrylic emulsion paint",
+  "unit": "L",
+  "rate": 280.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 612,
+  "description": "Plastic buckets 20 L capacity",
+  "unit": "No",
+  "rate": 102.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 613,
+  "description": "Plastic mug",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 614,
+  "description": "Plywood sheet",
+  "unit": "m2",
+  "rate": 636.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 615,
+  "description": "Polished Glazed Vitrified tiles in floor 50x50 cm",
+  "unit": "m2",
+  "rate": 560.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 616,
+  "description": "Polished Glazed Vitrified tiles in floor tile 60x60 cm",
+  "unit": "m2",
+  "rate": 620.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 617,
+  "description": "Polished Glazed Vitrified tiles in floor tile 80x80 cm",
+  "unit": "m2",
+  "rate": 740.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 618,
+  "description": "Polished Glazed Vitrified tiles in floor 60x120 cm",
+  "unit": "m2",
+  "rate": 1150.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 619,
+  "description": "Polished Glazed Vitrified tiles in floor 100x100 cm",
+  "unit": "m2",
+  "rate": 1200.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 620,
+  "description": "Polycarbonate End Cap",
+  "unit": "No",
+  "rate": 50.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 621,
+  "description": "Polyester powder coating 50 microns on aluminium sections arrangement L 6.00",
+  "unit": "kg",
+  "rate": 84.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 623,
+  "description": "Polymerized plaster reinforced with glass fibre mesh",
+  "unit": "m²",
+  "rate": 317.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 624,
+  "description": "Polythene Roll - 150mm Long.",
+  "unit": "No",
+  "rate": 6.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 625,
+  "description": "Polythene Sleeve 90 x 150mm m² 422.50 m² 338.98 m² 796.00",
+  "unit": "No",
+  "rate": 3.0,
+  "page": "A-30",
+  "pdf_page": 31
+ },
+ {
+  "sl_no": 629,
+  "description": "Polyurethane foam (PUF) spray 40mm thick average with PU foam m² 725.00 m² 750.00",
+  "unit": "m²",
+  "rate": 580.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 632,
+  "description": "Polyurethane foam (PUF) spray 70mm thick average with PU foam",
+  "unit": "m²",
+  "rate": 1577.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 633,
+  "description": "Powder coated M.S. butt hinges 100mm X58mmX1.9mm",
+  "unit": "10 No",
+  "rate": 130.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 634,
+  "description": "Powder coating 50 microns on aluminium sections cement m2 425.00 white cement, 50% ordinary cement m2 450.00",
+  "unit": "kg",
+  "rate": 76.25,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 637,
+  "description": "Precast Cement Concrete Blocks made using C&D Waste 1000",
+  "unit": "No",
+  "rate": 25150.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 638,
+  "description": "Precast heat resistant terrace tiles (size 300x300 mm)",
+  "unit": "m2",
+  "rate": 500.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 639,
+  "description": "Precast R.C.C. perforated slab",
+  "unit": "No",
+  "rate": 875.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 640,
+  "description": "Precoated galvanised steel gutter",
+  "unit": "m",
+  "rate": 525.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 641,
+  "description": "Precoated galvanised steel north light curves",
+  "unit": "m",
+  "rate": 285.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 642,
+  "description": "Precoated galvanised iron profile sheet 0.50 mm TCT",
+  "unit": "m2",
+  "rate": 368.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 643,
+  "description": "Precoated galvanised steel barge board (upto 300mm )",
+  "unit": "m",
+  "rate": 255.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 644,
+  "description": "Precoated galvanised steel barge board",
+  "unit": "m",
+  "rate": 225.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 645,
+  "description": "Precoated galvanised steel gutter 600mm overall girth wide m 260.00 balancing lamination, flat pressed 3 layer & graded (medium density) Grade I, Type II conforming to IS :12823 (exterior grade) 25 mm thick m2 968.00 pressed 3 layer & graded (medium density) Grade I, Type II conforming to IS : 12823 (exterior grade) 12 mm thick m2 605.00 balancing lamination, flat pressed 3 layer & graded (medium density) Grade I, Type II conforming to IS : 12823 (exterior grade) 12 mm thick m2 538.00 balancing lamination, flat pressed 3 layer & graded (medium density) Grade I, Type II conforming to IS :12823 (exterior grade) 18 mm thick m2 700.00 L 300.00",
+  "unit": "m",
+  "rate": 440.0,
+  "page": "A-31",
+  "pdf_page": 32
+ },
+ {
+  "sl_no": 652,
+  "description": "Premium Acrylic exterior paint",
+  "unit": "L",
+  "rate": 315.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 653,
+  "description": "Premixed super white gypsum plaster",
+  "unit": "kg",
+  "rate": 6.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 654,
+  "description": "Prepigmented Extruded cement roof tiles of size 420mm x330mm",
+  "unit": "No",
+  "rate": 635.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 655,
+  "description": "Pressed clay tiles 20 mm thick 250 x 250 mm size 1000",
+  "unit": "No",
+  "rate": 9030.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 656,
+  "description": "Pressed steel door frames (mild steel sheet 1.60 mm) Profile \"B\"",
+  "unit": "m",
+  "rate": 250.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 657,
+  "description": "Pressed steel door frames (mild steel sheet 1.60 mm) Profile \"C\"",
+  "unit": "m",
+  "rate": 275.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 658,
+  "description": "Pressed steel door frames (mild steel sheet 1.60 mm) Profile \"E\"",
+  "unit": "m",
+  "rate": 300.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 659,
+  "description": "Primer for Waterproofing with SBS Membrane",
+  "unit": "L",
+  "rate": 208.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 660,
+  "description": "Primer ( for gypsum board)",
+  "unit": "L",
+  "rate": 90.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 661,
+  "description": "Primer ( for gypsum board// calcium silicate board)",
+  "unit": "L",
+  "rate": 85.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 662,
+  "description": "Primer for cement paint",
+  "unit": "l",
+  "rate": 135.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 663,
+  "description": "Protective Tape",
+  "unit": "m",
+  "rate": 20.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 664,
+  "description": "PTMT Bottle Trap 31/32mm",
+  "unit": "No",
+  "rate": 250.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 665,
+  "description": "PTMT Bottle Trap 38/40mm",
+  "unit": "No",
+  "rate": 260.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 666,
+  "description": "PTMT pillar cock",
+  "unit": "No",
+  "rate": 170.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 667,
+  "description": "PTMT Shelf 450x124x36mm",
+  "unit": "No",
+  "rate": 195.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 668,
+  "description": "PTMT - Towel Ring 215x200x37mm",
+  "unit": "No",
+  "rate": 110.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 669,
+  "description": "PTMT Waste Coupling 31/32MM",
+  "unit": "No",
+  "rate": 43.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 670,
+  "description": "PTMT Waste Coupling 38/40MM",
+  "unit": "No",
+  "rate": 45.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 671,
+  "description": "PTMT Angle Stop cock with Flange 15mm Ball No 95.00 Ball No 130.00 Ball No 344.00 Ball No 525.00 Ball No 1025.00",
+  "unit": "No",
+  "rate": 106.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 677,
+  "description": "PTMT door catcher",
+  "unit": "No",
+  "rate": 25.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 678,
+  "description": "PTMT grating 100 mm dia.",
+  "unit": "No",
+  "rate": 15.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 679,
+  "description": "PTMT Liquid Soap Container",
+  "unit": "No",
+  "rate": 119.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 680,
+  "description": "PTMT pillar cock",
+  "unit": "No",
+  "rate": 170.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 681,
+  "description": "PTMT pillar cock (fancy) 15 mm foam flow.",
+  "unit": "No",
+  "rate": 210.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 682,
+  "description": "PTMT push cock 12 mm dia. 20 mm BSP",
+  "unit": "No",
+  "rate": 80.0,
+  "page": "A-32",
+  "pdf_page": 33
+ },
+ {
+  "sl_no": 683,
+  "description": "PTMT Sink Cock Size 15 mm",
+  "unit": "No",
+  "rate": 165.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 684,
+  "description": "PTMT Soap Dish/Holder 138x102x75mm",
+  "unit": "No",
+  "rate": 70.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 685,
+  "description": "PTMT Swan Neck Cock Size 15 mm",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 686,
+  "description": "PTMT Swiveling shower 15mm",
+  "unit": "No",
+  "rate": 90.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 687,
+  "description": "PTMT Towel Rail (450mm)",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 688,
+  "description": "PTMT Towel Rail (600mm)",
+  "unit": "No",
+  "rate": 190.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 689,
+  "description": "PTMT Urinal Spreader 15mm",
+  "unit": "No",
+  "rate": 69.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 690,
+  "description": "PU Elastomeric Single component liquid",
+  "unit": "kg",
+  "rate": 296.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 691,
+  "description": "PU Foam Injection Grout @ 0.40kg/nozzle",
+  "unit": "kg",
+  "rate": 932.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 692,
+  "description": "PU Plain Injection Grout @ 0.30kg/nozzle",
+  "unit": "kg",
+  "rate": 892.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 693,
+  "description": "PU Waterproofing Membrane single component - 1st coat",
+  "unit": "kg",
+  "rate": 240.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 694,
+  "description": "Pulley 25 mm dia",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 695,
+  "description": "Pulley 40 mm dia m2 1100.00",
+  "unit": "No",
+  "rate": 40.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 698,
+  "description": "PVC Cone",
+  "unit": "No",
+  "rate": 5.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 699,
+  "description": "PVC Edge beading",
+  "unit": "m",
+  "rate": 25.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 700,
+  "description": "PVC Pipe Ø20mm - 150mm long",
+  "unit": "No",
+  "rate": 5.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 701,
+  "description": "PVC slotted pipe 200 mm dia as per IS: 12818",
+  "unit": "m",
+  "rate": 810.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 702,
+  "description": "Q Trap 10cms x 10cms",
+  "unit": "No",
+  "rate": 200.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 703,
+  "description": "Rabbit wire mesh(Rabbit wire mesh required for reinforcement",
+  "unit": "m2",
+  "rate": 42.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 704,
+  "description": "Rawl plug 50 mm (designation 10 No)",
+  "unit": "No",
+  "rate": 28.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 705,
+  "description": "RBT reinforced barbed wire 9 rounds having VOC content less than 50 g/ l L 158.00",
+  "unit": "m",
+  "rate": 8.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 707,
+  "description": "Rectangular cover 455x610 mm with frame (low duty) (inside)",
+  "unit": "No",
+  "rate": 1400.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 708,
+  "description": "Rectangular cover 500x700 mm with frame (low duty)",
+  "unit": "No",
+  "rate": 1600.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 709,
+  "description": "Rectangular cover 600X850 mm with frame (low duty)",
+  "unit": "No",
+  "rate": 1750.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 710,
+  "description": "Rectangular shape 1500x450 mm Mirror with Plastic moulded frame",
+  "unit": "No",
+  "rate": 720.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 711,
+  "description": "Rectangular shape 453x357 mm Mirror with Plastic moulded frame No 148.00",
+  "unit": "No",
+  "rate": 290.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 713,
+  "description": "Red oxide",
+  "unit": "kg",
+  "rate": 85.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 714,
+  "description": "Red oxide Zinc chromate primer",
+  "unit": "L",
+  "rate": 180.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 715,
+  "description": "Red Salwood pigment kg 60.00",
+  "unit": "m3",
+  "rate": 69500.0,
+  "page": "A-33",
+  "pdf_page": 34
+ },
+ {
+  "sl_no": 717,
+  "description": "Reeded glass 3mm thick",
+  "unit": "m²",
+  "rate": 344.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 718,
+  "description": "Reeper nails 50 mm long",
+  "unit": "kg",
+  "rate": 44.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 719,
+  "description": "Reinforcement Coupler 16 mm dia",
+  "unit": "No",
+  "rate": 31.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 720,
+  "description": "Reinforcement Coupler 20 mm dia",
+  "unit": "No",
+  "rate": 41.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 721,
+  "description": "Reinforcement Coupler 25 mm dia",
+  "unit": "No",
+  "rate": 72.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 722,
+  "description": "Reinforcement Coupler 28 mm dia",
+  "unit": "No",
+  "rate": 83.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 723,
+  "description": "Reinforcement Coupler 32 mm dia",
+  "unit": "No",
+  "rate": 114.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 724,
+  "description": "Repair mortar - 29 kg/m2",
+  "unit": "kg",
+  "rate": 22.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 726,
+  "description": "Ridges (AC)",
+  "unit": "Pair",
+  "rate": 223.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 727,
+  "description": "Rolling shutters of 80x0.90 mm laths",
+  "unit": "m2",
+  "rate": 1225.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 725,
+  "description": "Rolling shutters of 80x1.2 mm laths",
+  "unit": "m2",
+  "rate": 1375.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 728,
+  "description": "Rolling shutter made of 80x1.25 mm machine rolled laths",
+  "unit": "m2",
+  "rate": 1400.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 729,
+  "description": "Roofing paint for iron sheets in red colour",
+  "unit": "L",
+  "rate": 180.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 730,
+  "description": "Rubber beading for shutters beading",
+  "unit": "m",
+  "rate": 15.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 731,
+  "description": "Rubber Gasket",
+  "unit": "m",
+  "rate": 100.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 732,
+  "description": "Ruby Red Granite colour , 20 mm thick",
+  "unit": "m2",
+  "rate": 1150.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 733,
+  "description": "S Trap 10cms x 10cms",
+  "unit": "No",
+  "rate": 260.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 734,
+  "description": "S type louvers",
+  "unit": "No",
+  "rate": 275.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 735,
+  "description": "S.C.I. gully or nahani grating 100 mm dia",
+  "unit": "No",
+  "rate": 32.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 736,
+  "description": "S.W . gully trap P type 100x100 mm",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 737,
+  "description": "S.W . gully trap P type 150X150 mm",
+  "unit": "No",
+  "rate": 175.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 738,
+  "description": "S.W . gully trap P type 180X150 mm",
+  "unit": "No",
+  "rate": 250.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 739,
+  "description": "Sadarahalli Grey Granite colour , 20 mm thick",
+  "unit": "m2",
+  "rate": 950.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 740,
+  "description": "Sal wood (White)",
+  "unit": "m3",
+  "rate": 68900.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 741,
+  "description": "Salem Stainless steel AISI - 304 (18/8) Round basin 405mm X 355mm",
+  "unit": "No",
+  "rate": 1500.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 742,
+  "description": "Salem Stainless steel AISI - 304 (18/8) Wash basin 530mm X 345mm",
+  "unit": "No",
+  "rate": 2000.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 743,
+  "description": "Sand papers of assorted gratings",
+  "unit": "No",
+  "rate": 22.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 744,
+  "description": "Sanding cloth 150 mm wide Membrane m2 320.00",
+  "unit": "m",
+  "rate": 60.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 747,
+  "description": "Seam bolts and nuts 6 mm dia and 25 mm long",
+  "unit": "10 No",
+  "rate": 10.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 748,
+  "description": "Seat Cloth",
+  "unit": "m²",
+  "rate": 150.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 749,
+  "description": "Seat Foam",
+  "unit": "m²",
+  "rate": 200.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 750,
+  "description": "Second class teak wood in scantling",
+  "unit": "10 cudm",
+  "rate": 970.0,
+  "page": "A-34",
+  "pdf_page": 35
+ },
+ {
+  "sl_no": 751,
+  "description": "Second class deodar wood in planks",
+  "unit": "10 cudm",
+  "rate": 625.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 752,
+  "description": "Second class kail wood in planks 10",
+  "unit": "m3",
+  "rate": 260.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 753,
+  "description": "Second class teak wood in planks",
+  "unit": "10 cudm",
+  "rate": 791.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 754,
+  "description": "Self Drilling Screws (25mm)",
+  "unit": "No",
+  "rate": 18.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 755,
+  "description": "Self levelling epoxy compound having low VOC",
+  "unit": "L",
+  "rate": 380.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 756,
+  "description": "Self Primer - 0.125L/m2 for 1 coat",
+  "unit": "L",
+  "rate": 341.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 757,
+  "description": "Self tapping pan head nickle coated mild steel screws of size 13x3.2mm 1000 not less than 700 mm i/c PVC waste fittings No 31.00 not less than 700 mm i/c PVC waste fittings No 41.00",
+  "unit": "No",
+  "rate": 480.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 759,
+  "description": "Sewer Type A Solfit pasting / Solvent Cement Type 75 mm dia",
+  "unit": "m",
+  "rate": 94.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 760,
+  "description": "Sewer Type A Solfit pasting / Solvent Cement Type 110 mm dia",
+  "unit": "m",
+  "rate": 165.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 762,
+  "description": "Sewer Type A Solfit pasting / Solvent Cement Type 160 mm dia",
+  "unit": "m",
+  "rate": 409.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 763,
+  "description": "Shear stud",
+  "unit": "No",
+  "rate": 50.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 764,
+  "description": "Shellac",
+  "unit": "kg",
+  "rate": 300.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 765,
+  "description": "Shiva Gold Granite colour , 20 mm thick",
+  "unit": "m2",
+  "rate": 1550.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 766,
+  "description": "Shower rose C.P .brass for 15 to 20 mm inlet 100 mm dia",
+  "unit": "No",
+  "rate": 138.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 767,
+  "description": "Shower rose C.P .brass for 15 to 20 mm inlet 150 mm dia",
+  "unit": "No",
+  "rate": 156.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 768,
+  "description": "Side guides",
+  "unit": "No",
+  "rate": 114.41,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 769,
+  "description": "Silhouette Black reveal Cross Tee 15x42x1200x0.4mm",
+  "unit": "No",
+  "rate": 142.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 770,
+  "description": "Silhouette Black reveal Cross Tee 15x42x600x0.4mm",
+  "unit": "No",
+  "rate": 71.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 771,
+  "description": "Silhouette Black reveal Main runner 15x42x3600x0.4mm",
+  "unit": "No",
+  "rate": 362.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 772,
+  "description": "Silicon and acrylic emulsion",
+  "unit": "L",
+  "rate": 360.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 773,
+  "description": "Silicon Gasket in kg (Above 50 g / m)",
+  "unit": "kg",
+  "rate": 465.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 774,
+  "description": "Slider/Drawer",
+  "unit": "Pair",
+  "rate": 423.73,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 775,
+  "description": "Soap powder",
+  "unit": "kg",
+  "rate": 106.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 776,
+  "description": "Sodium pentachlorophenate",
+  "unit": "kg",
+  "rate": 150.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 777,
+  "description": "Soffit cleat (Size 27x37x25x1.60mm)",
+  "unit": "No",
+  "rate": 4.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 778,
+  "description": "Soldier tie 370mm",
+  "unit": "No",
+  "rate": 290.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 779,
+  "description": "Solid concrete blocks 400x100x200 mm",
+  "unit": "No",
+  "rate": 34.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 780,
+  "description": "Solid concrete blocks 400x150x200 mm",
+  "unit": "No",
+  "rate": 42.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 781,
+  "description": "Solid concrete blocks 400x200x200 mm",
+  "unit": "No",
+  "rate": 47.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 782,
+  "description": "Solid Concrete Bricks 225x100x75mm",
+  "unit": "No",
+  "rate": 9.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 783,
+  "description": "Solid Flush Shutter 30 mm thick",
+  "unit": "m2",
+  "rate": 2800.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 784,
+  "description": "Solid Flush Shutter 35 mm thick",
+  "unit": "m2",
+  "rate": 3250.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 785,
+  "description": "Solid foam uPVC sheet 20mm thick prelaminated on both side commercial m2 2660.00",
+  "unit": "m2",
+  "rate": 2153.0,
+  "page": "A-35",
+  "pdf_page": 36
+ },
+ {
+  "sl_no": 787,
+  "description": "Solid core board flush doors 30 mm both side commercial commercial m2 2000.00",
+  "unit": "m2",
+  "rate": 1600.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 789,
+  "description": "Solid core board flush doors 30 mm thick both side teak",
+  "unit": "m2",
+  "rate": 2450.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 790,
+  "description": "Solid core board flush doors 35 mm thick both side commercial commercial m2 2330.00",
+  "unit": "m2",
+  "rate": 1860.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 792,
+  "description": "Solid core board flush doors 40 mm thick both side commercial",
+  "unit": "m2",
+  "rate": 2130.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 793,
+  "description": "Solid core board flush doors 40 mm thick both side Teak",
+  "unit": "m2",
+  "rate": 3200.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 794,
+  "description": "Solid core board flush doors35 mm thick both side Teak",
+  "unit": "m2",
+  "rate": 2850.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 795,
+  "description": "Solvent cement adhesive",
+  "unit": "L",
+  "rate": 170.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 796,
+  "description": "Spacer tape 6.4 mm thick x 6 mm wide",
+  "unit": "m",
+  "rate": 12.5,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 797,
+  "description": "Special Nails",
+  "unit": "kg",
+  "rate": 100.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 798,
+  "description": "Special Primer (C.W .)",
+  "unit": "L",
+  "rate": 160.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 799,
+  "description": "Special screws",
+  "unit": "kg",
+  "rate": 130.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 800,
+  "description": "Spigot for standard jointing",
+  "unit": "kg",
+  "rate": 43.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 801,
+  "description": "Spirit",
+  "unit": "L",
+  "rate": 48.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 802,
+  "description": "Spring T -connector",
+  "unit": "No",
+  "rate": 5.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 803,
+  "description": "Spring T -section 24x34x0.45 mm (3.00 m long)",
+  "unit": "m",
+  "rate": 190.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 804,
+  "description": "SS Screws of sizes for structural glazing /ACP Cladding",
+  "unit": "No",
+  "rate": 2.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 805,
+  "description": "SS Angle cock light with wall flange - Economy",
+  "unit": "No",
+  "rate": 403.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 806,
+  "description": "SS Angle cock light with wall flange - Premium",
+  "unit": "No",
+  "rate": 744.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 807,
+  "description": "SS Angle cock medium with wall flange - Economy",
+  "unit": "No",
+  "rate": 750.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 808,
+  "description": "SS Angle cock medium with wall flange - Premium",
+  "unit": "No",
+  "rate": 1108.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 809,
+  "description": "SS Angle cock with wall flange - Economy",
+  "unit": "No",
+  "rate": 800.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 810,
+  "description": "SS Angle cock with wall flange - Premium",
+  "unit": "No",
+  "rate": 1492.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 811,
+  "description": "SS Bib cock Two way with wall flange - Economy",
+  "unit": "No",
+  "rate": 1500.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 812,
+  "description": "SS Bib cock Two way with wall flange - Premium",
+  "unit": "No",
+  "rate": 2644.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 813,
+  "description": "SS Bib cock with wall flange - Economy",
+  "unit": "No",
+  "rate": 830.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 814,
+  "description": "SS Bib cock with wall flange - Premium",
+  "unit": "No",
+  "rate": 1912.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 815,
+  "description": "SS Bidet spray - Economy",
+  "unit": "No",
+  "rate": 600.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 816,
+  "description": "SS Bidet spray - Premium",
+  "unit": "No",
+  "rate": 750.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 817,
+  "description": "SS Double Towel rail 600mm length - Economy",
+  "unit": "No",
+  "rate": 2000.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 818,
+  "description": "SS Double Towel rail 600mm length - Premium",
+  "unit": "No",
+  "rate": 3100.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 819,
+  "description": "SS Exposed set for concealed stop cock - Economy",
+  "unit": "No",
+  "rate": 420.0,
+  "page": "A-36",
+  "pdf_page": 37
+ },
+ {
+  "sl_no": 820,
+  "description": "SS Exposed set for concealed stop cock - Premium Economy No 1400.00 Premium No 2752.00 Economy No 1700.00 Premium No 2872.00",
+  "unit": "No",
+  "rate": 632.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 825,
+  "description": "SS Exposed set for concealed divertor - Economy",
+  "unit": "No",
+  "rate": 1600.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 826,
+  "description": "SS Exposed set for concealed divertor - Premium",
+  "unit": "No",
+  "rate": 2944.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 827,
+  "description": "SS Exposed set for concealed wall mixer - Economy",
+  "unit": "No",
+  "rate": 1300.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 828,
+  "description": "SS Exposed set for concealed wall mixer - Premium",
+  "unit": "No",
+  "rate": 3052.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 829,
+  "description": "SS Exposed set for single concealed stop cock with basin spout - Economy",
+  "unit": "No",
+  "rate": 1700.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 830,
+  "description": "SS Exposed set for single concealed stop cock with basin spout - Premium",
+  "unit": "No",
+  "rate": 2800.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 831,
+  "description": "SS Exposed set for single lever concealed basin mixer - Economy",
+  "unit": "No",
+  "rate": 2400.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 832,
+  "description": "SS Exposed set for single lever concealed basin mixer - Premium",
+  "unit": "No",
+  "rate": 3052.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 833,
+  "description": "SS Flush valve soft touch - Economy",
+  "unit": "No",
+  "rate": 3000.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 834,
+  "description": "SS Flush valve soft touch - Premium Economy No 125.00 Premium No 148.00",
+  "unit": "No",
+  "rate": 3350.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 837,
+  "description": "SS Liquid soap dispenser - Economy",
+  "unit": "No",
+  "rate": 1350.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 838,
+  "description": "SS Liquid soap dispenser - Premium",
+  "unit": "No",
+  "rate": 3060.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 839,
+  "description": "SS Overhead rain showers - Economy",
+  "unit": "No",
+  "rate": 800.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 840,
+  "description": "SS Overhead rain showers - Premium",
+  "unit": "No",
+  "rate": 4820.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 841,
+  "description": "SS Overhead rain showers with LED features - Economy",
+  "unit": "No",
+  "rate": 7500.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 842,
+  "description": "SS Overhead rain showers with LED features - Premium",
+  "unit": "No",
+  "rate": 8712.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 843,
+  "description": "SS Pillar Cock - Economy",
+  "unit": "No",
+  "rate": 918.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 844,
+  "description": "SS Pillar Cock - Premium",
+  "unit": "No",
+  "rate": 2068.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 845,
+  "description": "SS Pillar cock with high neck with 265mm Extended body - Economy",
+  "unit": "No",
+  "rate": 1975.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 846,
+  "description": "SS Pillar cock with high neck with 265mm Extended body - Premium",
+  "unit": "No",
+  "rate": 3900.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 847,
+  "description": "SS Robe hook twin - Economy",
+  "unit": "No",
+  "rate": 360.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 848,
+  "description": "SS Robe hook twin - Premium",
+  "unit": "No",
+  "rate": 1104.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 849,
+  "description": "SS Robe hookwith 5 points - Economy",
+  "unit": "No",
+  "rate": 850.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 850,
+  "description": "SS Robe hookwith 5 points - Premium for overhead shower - Economy No 3100.00 for overhead shower - Premium No 6624.00",
+  "unit": "No",
+  "rate": 2136.0,
+  "page": "A-37",
+  "pdf_page": 38
+ },
+ {
+  "sl_no": 853,
+  "description": "SS Single flow hand showers - Economy",
+  "unit": "No",
+  "rate": 640.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 854,
+  "description": "SS Single flow hand showers - Premium Economy No 1250.00 Premium No 2284.00",
+  "unit": "No",
+  "rate": 956.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 857,
+  "description": "SS Single flow hand showers with extendable tube - Economy",
+  "unit": "No",
+  "rate": 1000.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 858,
+  "description": "SS Single flow hand showers with extendable tube - Premium",
+  "unit": "No",
+  "rate": 1668.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 859,
+  "description": "SS Single Lever Basin Mixer with 450mm long FC - Economy",
+  "unit": "No",
+  "rate": 1950.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 860,
+  "description": "SS Single Lever Basin Mixer with 450mm long FC - Premium",
+  "unit": "No",
+  "rate": 5228.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 861,
+  "description": "SS Single Lever Basin Mixer with high neck & 450mm long FC - Economy",
+  "unit": "No",
+  "rate": 2300.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 862,
+  "description": "SS Single Lever Basin Mixer with high neck & 450mm long FC - Premium",
+  "unit": "No",
+  "rate": 7496.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 863,
+  "description": "SS Single lever Bib cock (Lifting type cold water cartridge) - Economy",
+  "unit": "No",
+  "rate": 940.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 864,
+  "description": "SS Single lever Bib cock (Lifting type cold water cartridge) - Premium",
+  "unit": "No",
+  "rate": 1308.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 865,
+  "description": "SS Single lever sink cock (Lifting type cold water cartridge) - Economy",
+  "unit": "No",
+  "rate": 1355.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 866,
+  "description": "SS Single lever sink cock (Lifting type cold water cartridge) - Premium",
+  "unit": "No",
+  "rate": 1904.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 867,
+  "description": "SS Single lever sink mixer with 450mm long flexible connectors - Economy",
+  "unit": "No",
+  "rate": 2870.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 868,
+  "description": "SS Single lever sink mixer with 450mm long flexible connectors - Premium",
+  "unit": "No",
+  "rate": 4196.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 869,
+  "description": "SS Single lever sink mixer with swivel spout top outlet - Economy",
+  "unit": "No",
+  "rate": 3020.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 870,
+  "description": "SS Single lever sink mixer with swivel spout top outlet - Premium",
+  "unit": "No",
+  "rate": 4696.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 871,
+  "description": "SS Single lever wall mixer - Economy",
+  "unit": "No",
+  "rate": 3000.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 872,
+  "description": "SS Single lever wall mixer - Premium shower - Economy No 3200.00 shower - Premium No 6888.00",
+  "unit": "No",
+  "rate": 6560.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 875,
+  "description": "SS Sink cock with swivel spout & wall flange - Economy",
+  "unit": "No",
+  "rate": 1500.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 876,
+  "description": "SS Sink cock with swivel spout & wall flange - Premium",
+  "unit": "No",
+  "rate": 2292.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 877,
+  "description": "SS Soap dish wired - Economy",
+  "unit": "No",
+  "rate": 500.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 878,
+  "description": "SS Soap dish wired - Premium",
+  "unit": "No",
+  "rate": 1660.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 879,
+  "description": "SS StainleSS Steel foldable Towel rack 600mm - Economy",
+  "unit": "No",
+  "rate": 1600.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 880,
+  "description": "SS StainleSS Steel foldable Towel rack 600mm - Premium",
+  "unit": "No",
+  "rate": 3390.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 881,
+  "description": "SS StainleSS Steel Grab Bar 600 mm Long - Economy",
+  "unit": "No",
+  "rate": 1520.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 882,
+  "description": "SS StainleSS Steel Grab Bar 600 mm Long - Premium",
+  "unit": "No",
+  "rate": 6650.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 883,
+  "description": "SS Toilet paper holder - Economy",
+  "unit": "No",
+  "rate": 600.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 884,
+  "description": "SS Toilet paper holder - Premium",
+  "unit": "No",
+  "rate": 2250.0,
+  "page": "A-38",
+  "pdf_page": 39
+ },
+ {
+  "sl_no": 885,
+  "description": "SS Towel rail (Circular) - Economy",
+  "unit": "No",
+  "rate": 290.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 886,
+  "description": "SS Towel rail (Circular) - Premium",
+  "unit": "No",
+  "rate": 1940.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 887,
+  "description": "SS Towel rail (Rectangular) - Economy",
+  "unit": "No",
+  "rate": 400.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 888,
+  "description": "SS Towel rail (Rectangular) - Premium",
+  "unit": "No",
+  "rate": 2144.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 889,
+  "description": "SS Towel rail 450mm length - Economy",
+  "unit": "No",
+  "rate": 800.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 890,
+  "description": "SS Towel rail 450mm length - Premium",
+  "unit": "No",
+  "rate": 2150.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 891,
+  "description": "SS Towel rail 600mm length - Economy",
+  "unit": "No",
+  "rate": 950.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 892,
+  "description": "SS Towel rail 600mm length - Premium",
+  "unit": "No",
+  "rate": 2400.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 893,
+  "description": "SS Towel rail 600mm length with hooks - Economy",
+  "unit": "No",
+  "rate": 2500.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 894,
+  "description": "SS Towel rail 600mm length with hooks - Premium",
+  "unit": "No",
+  "rate": 6100.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 895,
+  "description": "SS Wall Mixer Telephonic - Economy",
+  "unit": "No",
+  "rate": 3500.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 896,
+  "description": "SS Wall Mixer Telephonic - Premium shower - Economy No 3600.00 shower - Premium No 6320.00",
+  "unit": "No",
+  "rate": 5888.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 899,
+  "description": "SS Wall Mixer Non Telephonic - Economy",
+  "unit": "No",
+  "rate": 2400.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 900,
+  "description": "SS Wall Mixer Non Telephonic - Premium",
+  "unit": "No",
+  "rate": 4556.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 901,
+  "description": "SS Wall spout with Button attachment for shower - Economy",
+  "unit": "No",
+  "rate": 1400.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 902,
+  "description": "SS Wall spout with Button attachment for shower - Premium",
+  "unit": "No",
+  "rate": 2508.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 903,
+  "description": "SS Wall spout with wall flange - Economy",
+  "unit": "No",
+  "rate": 1000.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 904,
+  "description": "SS Wall spout with wall flange - Premium",
+  "unit": "No",
+  "rate": 1876.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 905,
+  "description": "SS Bolt with washer of sizes for structural glazing / ACP Cladding No 3200.00 No 3500.00",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 908,
+  "description": "Stainless steel cramp depth 178 mm No 3000.00",
+  "unit": "kg",
+  "rate": 290.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 910,
+  "description": "Stainless steel kitchen sink - with drain board bowl depth 250 mm. depth 178 mm No 1200.00 depth 200 mm. No 1500.00 depth 200 mm No 2200.00",
+  "unit": "No",
+  "rate": 3700.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 914,
+  "description": "Stainless steel (Grade-304)hollow section round/square tubes No 200.00 No 225.00 No 350.00 No 540.00 No 925.00",
+  "unit": "kg",
+  "rate": 250.0,
+  "page": "A-39",
+  "pdf_page": 40
+ },
+ {
+  "sl_no": 920,
+  "description": "Stainless steel bolts/square bar and plates",
+  "unit": "kg",
+  "rate": 120.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 921,
+  "description": "Stainless steel butt hinges 100x58x1.90mm IS : 12817 marked",
+  "unit": "10No",
+  "rate": 350.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 922,
+  "description": "Stainless steel butt hinges 125x64x1.9 mm IS : 12817 marked",
+  "unit": "10No",
+  "rate": 400.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 923,
+  "description": "Stainless steel butt hinges 50x37x1.50mm IS : 12817 marked",
+  "unit": "10No",
+  "rate": 200.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 924,
+  "description": "Stainless steel butt hinges 75x47x1.80mm IS : 12817 marked",
+  "unit": "10No",
+  "rate": 275.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 925,
+  "description": "Stainless steel dash fastener of 8 mm dia and 75 mm long bolt cabinets shutter . No 15.00",
+  "unit": "No",
+  "rate": 17.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 927,
+  "description": "Stainless steel screws 25 mm x4 mm",
+  "unit": "100 No",
+  "rate": 45.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 928,
+  "description": "Stainless steel screws 30 mm x4 mm",
+  "unit": "100 No",
+  "rate": 50.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 929,
+  "description": "Stainless steel U Channel of size (50x25x2mm) dia wire m2 413.00",
+  "unit": "m",
+  "rate": 190.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 931,
+  "description": "Standard quality hard board sheet 3 mm thick",
+  "unit": "m2",
+  "rate": 142.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 932,
+  "description": "Standard quality hard board sheet 4.5 mm thick and K12B etc. kg 65.00",
+  "unit": "m2",
+  "rate": 220.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 934,
+  "description": "Stone surface strengthening chemical approved by ASI",
+  "unit": "L",
+  "rate": 295.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 935,
+  "description": "Stone cleaning chemical approved by ASI",
+  "unit": "L",
+  "rate": 295.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 936,
+  "description": "Stone for masonry work",
+  "unit": "m3",
+  "rate": 1000.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 937,
+  "description": "Strips Aluminium fluted 3.15mm thick and 200mm wide m",
+  "unit": "m",
+  "rate": 480.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 938,
+  "description": "Strips-Aluminium fluted 3.15mm thick and 150mm wide",
+  "unit": "m",
+  "rate": 370.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 939,
+  "description": "Structural sealant - 6 mm x 12 mm",
+  "unit": "m",
+  "rate": 25.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 940,
+  "description": "Structural steel such as tees, angles channels and R.S. joists",
+  "unit": "q",
+  "rate": 6800.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 941,
+  "description": "Super Durable Powder coating 60-80 microns on aluminium sections",
+  "unit": "kg",
+  "rate": 61.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 942,
+  "description": "Superior class teak wood such as Dandeli planks",
+  "unit": "10 cudm",
+  "rate": 1100.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 943,
+  "description": "Superior class teak wood such as Dandeli,Balarshah or Malabar in planks",
+  "unit": "10 cudm",
+  "rate": 970.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 944,
+  "description": "Superior copal varnish",
+  "unit": "L",
+  "rate": 144.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 945,
+  "description": "Superior spar varnish",
+  "unit": "L",
+  "rate": 144.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 946,
+  "description": "SWR Type A Single socketed pipe 110 mm dia.",
+  "unit": "m",
+  "rate": 140.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 947,
+  "description": "SWR Type A Single socketed pipe 75 mm dia",
+  "unit": "m",
+  "rate": 81.0,
+  "page": "A-40",
+  "pdf_page": 41
+ },
+ {
+  "sl_no": 948,
+  "description": "SWR Type A Rubber (Seal) Ring 110 mm dia.",
+  "unit": "No",
+  "rate": 11.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 949,
+  "description": "SWR Type A Rubber (Seal) Ring 150 mm dia.",
+  "unit": "No",
+  "rate": 15.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 950,
+  "description": "SWR Type A Rubber (Seal) Ring 75 mm dia.",
+  "unit": "No",
+  "rate": 8.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 951,
+  "description": "SWR Type A Single socketed pipe 150 mm dia.",
+  "unit": "m",
+  "rate": 355.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 952,
+  "description": "Synthetic enamel paint in all shades except black or chocolate shade",
+  "unit": "L",
+  "rate": 206.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 953,
+  "description": "Synthetic enamel paint in black or chocolate shade",
+  "unit": "L",
+  "rate": 219.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 954,
+  "description": "Synthetic ployster triangular fibre",
+  "unit": "kg",
+  "rate": 410.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 955,
+  "description": "Table rubbed polished stone 18mm thick (75x50cm) Granite stone",
+  "unit": "m2",
+  "rate": 1500.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 956,
+  "description": "Telescopic drawer channels 300mm long .",
+  "unit": "Set",
+  "rate": 320.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 957,
+  "description": "Terracota clay tiles 12 X 2X 2 inches",
+  "unit": "No",
+  "rate": 20.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 958,
+  "description": "Terracota clay tiles 12 X 4X 2 inches",
+  "unit": "No",
+  "rate": 26.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 959,
+  "description": "Textured exterior paint with aluminium strips m² 150.00 with aluminium strips m² 227.00 with aluminium strips m² 281.00 with aluminium strips m² 358.00 with aluminium strips m² 398.00",
+  "unit": "L",
+  "rate": 400.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 965,
+  "description": "Through and bond stone size 24 x24 x39 cm",
+  "unit": "No",
+  "rate": 76.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 966,
+  "description": "Tie Rod for Bracket - 500mm",
+  "unit": "No",
+  "rate": 115.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 967,
+  "description": "Top cover of Rolling shutters 0.90 mm thick",
+  "unit": "m",
+  "rate": 450.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 968,
+  "description": "Top cover of Rolling shutters 1.20 mm thick",
+  "unit": "m",
+  "rate": 560.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 969,
+  "description": "Top cover for rolling shutters 1.25 mm thick",
+  "unit": "m",
+  "rate": 800.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 970,
+  "description": "Top wedge Block",
+  "unit": "No",
+  "rate": 120.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 971,
+  "description": "Toughened glass 12 mm thickness with hole",
+  "unit": "m²",
+  "rate": 2100.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 972,
+  "description": "Turf Paver (500 x 500 x 40 mm)",
+  "unit": "m2",
+  "rate": 16.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 973,
+  "description": "Turn buckle and strengthening bolt",
+  "unit": "Set",
+  "rate": 45.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 974,
+  "description": "Turpentine oil",
+  "unit": "L",
+  "rate": 50.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 975,
+  "description": "Twin sided tape",
+  "unit": "m",
+  "rate": 107.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 976,
+  "description": "Two component Acrylic polymer modified cementitious membrane",
+  "unit": "kg",
+  "rate": 80.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 977,
+  "description": "U Polycarbonate Connector No 38.00 No 44.00 No 44.00 No 60.00",
+  "unit": "m",
+  "rate": 175.0,
+  "page": "A-41",
+  "pdf_page": 42
+ },
+ {
+  "sl_no": 982,
+  "description": "uPVC Pipes 15 mm nominal dia",
+  "unit": "m",
+  "rate": 38.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 983,
+  "description": "uPVC Pipes 20 mm nominal dia.",
+  "unit": "m",
+  "rate": 47.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 984,
+  "description": "uPVC Pipes 25 mm nominal dia.",
+  "unit": "m",
+  "rate": 71.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 985,
+  "description": "uPVC Pipes 32 mm nominal dia.",
+  "unit": "m",
+  "rate": 101.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 986,
+  "description": "uPVC Pipes 40 mm nominal dia.",
+  "unit": "m",
+  "rate": 119.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 987,
+  "description": "uPVC Pipes 50 mm nominal dia.",
+  "unit": "m",
+  "rate": 165.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 988,
+  "description": "uPVC Pipes 65 mm nominal dia.",
+  "unit": "m",
+  "rate": 259.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 989,
+  "description": "uPVC Pipes 80 mm nominal dia.",
+  "unit": "m",
+  "rate": 334.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 990,
+  "description": "uPVC Pipes 100 mm nominal dia.",
+  "unit": "m",
+  "rate": 474.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 991,
+  "description": "uPVC Pipes 150 mm nominal dia.",
+  "unit": "m",
+  "rate": 831.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 992,
+  "description": "UV stabilised 2 mm thick corrugated FRP sheet",
+  "unit": "m2",
+  "rate": 510.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 993,
+  "description": "UV stabilised 2 mm thick plain FRPsheet",
+  "unit": "m2",
+  "rate": 452.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 994,
+  "description": "Vertical Perforated blocks of size 400x200x200 mm",
+  "unit": "No",
+  "rate": 54.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 995,
+  "description": "Vertical Soldier -1100mm",
+  "unit": "No",
+  "rate": 365.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 996,
+  "description": "Vitreous china flat back wash basin 450x300 mm",
+  "unit": "No",
+  "rate": 350.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 997,
+  "description": "Vitreous china flat back wash basin 550x400 mm",
+  "unit": "No",
+  "rate": 550.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 998,
+  "description": "Vitreous china flat back wash basin 630x450 mm",
+  "unit": "No",
+  "rate": 725.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 999,
+  "description": "Vitreous china foot rests 250x125x25 mm",
+  "unit": "pair",
+  "rate": 129.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1000,
+  "description": "Vitreous china foot rests 250x130x30 mm",
+  "unit": "pair",
+  "rate": 125.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1001,
+  "description": "Vitreous china orissa type w.c. pan size 580 mm",
+  "unit": "No",
+  "rate": 1290.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1002,
+  "description": "Vitreous china pedestal type water closet",
+  "unit": "No",
+  "rate": 1250.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1003,
+  "description": "Vitreous china 10 litres low level cistern with fittings",
+  "unit": "No",
+  "rate": 1200.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1004,
+  "description": "Vitreous china 10 litres low level cistern without fittings",
+  "unit": "No",
+  "rate": 700.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1005,
+  "description": "Vitreous china angle back wash basin 400x400 mm",
+  "unit": "No",
+  "rate": 485.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1006,
+  "description": "Vitreous china angle back wash basin 600x480 mm",
+  "unit": "No",
+  "rate": 725.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1007,
+  "description": "Vitreous china Indian type W .C. Pan size 580 mm",
+  "unit": "No",
+  "rate": 500.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1008,
+  "description": "Vitreous china lipped front urinal",
+  "unit": "No",
+  "rate": 485.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1009,
+  "description": "Vitreous china orrisa type W .C. Pan size 580 mm",
+  "unit": "No",
+  "rate": 1290.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1010,
+  "description": "Vitreous china squatting plate urinal",
+  "unit": "No",
+  "rate": 1100.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1011,
+  "description": "Vitreous china toilet paper holder of standard size",
+  "unit": "No",
+  "rate": 150.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1012,
+  "description": "Vitrified floor tile 50x50 cm",
+  "unit": "m2",
+  "rate": 500.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1013,
+  "description": "Vitrified floor tile 60X60 cm",
+  "unit": "m2",
+  "rate": 550.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1014,
+  "description": "Vitrified floor tile 80X80 cm",
+  "unit": "m2",
+  "rate": 640.0,
+  "page": "A-42",
+  "pdf_page": 43
+ },
+ {
+  "sl_no": 1015,
+  "description": "Vitrified floor tile 60 X 120 cm",
+  "unit": "m2",
+  "rate": 685.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1016,
+  "description": "Vitrified floor tile 100X100 cm",
+  "unit": "m2",
+  "rate": 1100.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1017,
+  "description": "Vitrous china pedestal for wash basin",
+  "unit": "No",
+  "rate": 950.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1018,
+  "description": "Wall angle 15x20x3000x0.4mm",
+  "unit": "No",
+  "rate": 130.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1019,
+  "description": "Wall Angle 19x19x3000mm",
+  "unit": "No",
+  "rate": 80.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1020,
+  "description": "Wall angle 24x24x3000x0.4mm",
+  "unit": "No",
+  "rate": 130.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1021,
+  "description": "Wall Attached Bracket 600x1000mm",
+  "unit": "No",
+  "rate": 985.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1022,
+  "description": "Wall mounted water closet",
+  "unit": "No",
+  "rate": 5500.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1023,
+  "description": "Wall tie-150 (355 mm )",
+  "unit": "No",
+  "rate": 45.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1024,
+  "description": "Water based acrylic primer",
+  "unit": "L",
+  "rate": 70.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1025,
+  "description": "Water based acrylic PU dispersion",
+  "unit": "kg",
+  "rate": 320.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1026,
+  "description": "Water for jetting / blowback 1000",
+  "unit": "L",
+  "rate": 1500.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1027,
+  "description": "Water proofing cement paint",
+  "unit": "kg",
+  "rate": 57.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1028,
+  "description": "Water proofing materials",
+  "unit": "kg",
+  "rate": 44.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1029,
+  "description": "Water proofing materials (PU based)",
+  "unit": "kg",
+  "rate": 35.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1030,
+  "description": "Water repellent chemical approved by ASI content less than 50 g/ l L 75.00",
+  "unit": "L",
+  "rate": 1200.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1032,
+  "description": "waterproofing coating - Acrylic anti-carbonation elastomeric L 232.00",
+  "unit": "L",
+  "rate": 341.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1034,
+  "description": "Waterproofing coating - Acrylic Co Polymer waterproofing kg 318.00",
+  "unit": "kg",
+  "rate": 119.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1036,
+  "description": "Waterproofing Membrane - HDPE",
+  "unit": "m2",
+  "rate": 585.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1037,
+  "description": "Wax polish (ready made)",
+  "unit": "kg",
+  "rate": 230.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1039,
+  "description": "Weather Sealant - Non Staining (600 ml)",
+  "unit": "No",
+  "rate": 265.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1040,
+  "description": "Weather Sealant - Normal (300 ml)",
+  "unit": "No",
+  "rate": 47.5,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1042,
+  "description": "Weather/ structural non sag. Elastomeric PU sealant (600ml)",
+  "unit": "No",
+  "rate": 600.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1043,
+  "description": "Wedge",
+  "unit": "No",
+  "rate": 14.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1044,
+  "description": "Wedge expansion hold fastner 1/2\" or 12 mm 58.7mm length",
+  "unit": "No",
+  "rate": 38.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1045,
+  "description": "Wedge expansion hold fastner 1/4\" or 6 mm, 36.5mm length",
+  "unit": "No",
+  "rate": 30.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1046,
+  "description": "Wedge expansion hold fastner 3/8\" or 10 mm, 44.5mm length",
+  "unit": "No",
+  "rate": 35.0,
+  "page": "A-43",
+  "pdf_page": 44
+ },
+ {
+  "sl_no": 1049,
+  "description": "Wheel 75 mm dia. 40 mm wide",
+  "unit": "No",
+  "rate": 62.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1050,
+  "description": "White Cement form kg 15.00",
+  "unit": "t",
+  "rate": 20000.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1052,
+  "description": "White face insulating board:12 mm",
+  "unit": "m2",
+  "rate": 245.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1053,
+  "description": "White plastic seat (solid)with lid C.P .brass hinges and rubber buffers angle back 450x375x350 mm with waste fittings as per IS : 2556 No 1050.00",
+  "unit": "No",
+  "rate": 410.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1055,
+  "description": "White vitreous china laboratory sink 450x300x150 mm",
+  "unit": "No",
+  "rate": 1650.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1056,
+  "description": "White vitreous china laboratory sink 600x450x200 mm",
+  "unit": "No",
+  "rate": 2600.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1057,
+  "description": "White cement based putty",
+  "unit": "kg",
+  "rate": 13.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1058,
+  "description": "White glazed fire clay draining board 600x450x25 mm",
+  "unit": "No",
+  "rate": 500.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1059,
+  "description": "White glazed tiles 15x15 cms 6mm thick",
+  "unit": "No",
+  "rate": 10.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1060,
+  "description": "White lead flushing cistern with all fittings No 875.00 use as squatting pan or European type water closet as per manufacturer's specifications No 3000.00",
+  "unit": "kg",
+  "rate": 170.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1063,
+  "description": "White Vitreous China Waterless Urinal",
+  "unit": "No",
+  "rate": 9000.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1064,
+  "description": "Wire Coupling Clip",
+  "unit": "No",
+  "rate": 9.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1065,
+  "description": "Wire nails",
+  "unit": "kg",
+  "rate": 58.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1066,
+  "description": "Wooden screws with plastic rawl plugs 35x8 mm",
+  "unit": "No",
+  "rate": 1.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1067,
+  "description": "Yellow line marking compound",
+  "unit": "kg",
+  "rate": 530.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1068,
+  "description": "Z Section [Hold Fast]",
+  "unit": "kg",
+  "rate": 61.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1069,
+  "description": "Zinc Coated GI Plaster mesh 100mm wide",
+  "unit": "m",
+  "rate": 22.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1070,
+  "description": "Zinc Coated GI Plaster mesh 150mm wide",
+  "unit": "m",
+  "rate": 25.0,
+  "page": "A-44",
+  "pdf_page": 45
+ },
+ {
+  "sl_no": 1071,
+  "description": "Zinc Coated GI Plaster mesh 200mm wide",
+  "unit": "m",
+  "rate": 30.0,
+  "page": "A-44",
+  "pdf_page": 45
+ }
+]

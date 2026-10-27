@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "source": "Karnataka PWD Schedule of Rates for Buildings 2023-24, Volume 2",
+    "url": "https://kpwd.karnataka.gov.in/storage/pdf-files/PWDSR-Vol-IIBuildings-GrandFinale-15-11-2023.pdf",
+    "basis": "Material rates for the PWD Bangalore division, exclusive of GST (Preface items 2-3)",
+    "status_values": {
+      "verified": "Checked against the printed Vol 2 page cited in `page`",
+      "placeholder": "NOT in Vol 2 — cement/steel are published quarterly and sand, aggregate and labour wages are in Vol 1 (Common SR). Market estimate; replace with the official figure."
+    }
+  },
+  "rates": {
+    "cement_t":            {"label": "Cement (OPC)",                       "unit": "t",    "rate": 8000,  "status": "placeholder", "ref": "Quarterly basic rate (Preface item 7)", "note": "≈ ₹400 per 50 kg bag"},
+    "steel_kg":            {"label": "TMT reinforcement steel",            "unit": "kg",   "rate": 62,    "status": "placeholder", "ref": "Quarterly basic rate (Preface item 7)"},
+    "sand_m3":             {"label": "M-Sand",                             "unit": "m3",   "rate": 1700,  "status": "placeholder", "ref": "Vol 1 basic cost of materials"},
+    "agg20_m3":            {"label": "Coarse aggregate 20 mm and down",    "unit": "m3",   "rate": 1300,  "status": "placeholder", "ref": "Vol 1 basic cost of materials"},
+    "agg40_m3":            {"label": "Coarse aggregate 40 mm and down",    "unit": "m3",   "rate": 1200,  "status": "placeholder", "ref": "Vol 1 basic cost of materials"},
+    "mason_day":           {"label": "Mason",                              "unit": "day",  "rate": 950,   "status": "placeholder", "ref": "Vol 1 wages to labour"},
+    "carpenter_day":       {"label": "Carpenter",                          "unit": "day",  "rate": 950,   "status": "placeholder", "ref": "Vol 1 wages to labour"},
+    "painter_day":         {"label": "Painter",                            "unit": "day",  "rate": 900,   "status": "placeholder", "ref": "Vol 1 wages to labour"},
+    "blacksmith_day":      {"label": "Blacksmith / bar bender",            "unit": "day",  "rate": 950,   "status": "placeholder", "ref": "Vol 1 wages to labour"},
+    "mazdoor_day":         {"label": "Mazdoor",                            "unit": "day",  "rate": 700,   "status": "placeholder", "ref": "Vol 1 wages to labour"},
+
+    "brick_100":           {"label": "Solid concrete bricks 225×100×75 mm", "unit": "100 Nos", "rate": 900, "status": "verified", "ref": "Basic #782", "page": "A-35", "as_printed": "₹9.00 per No"},
+    "timber_m3":           {"label": "Second class teak wood in scantling", "unit": "m3",  "rate": 97000, "status": "verified", "ref": "Basic #750", "page": "A-34", "as_printed": "₹970.00 per 10 cudm"},
+    "glass_m2":            {"label": "Float glass sheet 4 mm",             "unit": "m2",   "rate": 389,   "status": "verified", "ref": "Basic #330", "page": "A-22"},
+    "primer_l":            {"label": "Pink primer (for wood)",             "unit": "L",    "rate": 131,   "status": "verified", "ref": "Basic #608", "page": "A-30"},
+    "paint_l":             {"label": "Synthetic enamel paint",             "unit": "L",    "rate": 206,   "status": "verified", "ref": "Basic #952", "page": "A-41"},
+
+    "vitrified_floor_m2":  {"label": "Vitrified floor tiles 600×600 on 20 mm CM 1:4", "unit": "m2", "rate": 1145, "status": "verified", "ref": "Item 9.12.2",  "page": "60"},
+    "wc_each":             {"label": "European W.C. pan with PVC cistern",  "unit": "each", "rate": 4838,  "status": "verified", "ref": "Item 14.2.1",  "page": "131"},
+    "wash_basin_each":     {"label": "Wash basin 630×450 mm with pillar taps", "unit": "each", "rate": 3082, "status": "verified", "ref": "Item 14.7.1", "page": "132"},
+    "kitchen_sink_each":   {"label": "SS kitchen sink with drain board",    "unit": "each", "rate": 4939,  "status": "verified", "ref": "Item 14.10.1.3", "page": "133"},
+    "wet_area_wp_m2":      {"label": "Cementitious waterproofing — bathroom", "unit": "m2", "rate": 367,   "status": "verified", "ref": "Item 15.10",   "page": "151"},
+    "roof_wp_m2":          {"label": "Cementitious waterproofing — roof",   "unit": "m2",   "rate": 525,   "status": "verified", "ref": "Item 15.11",   "page": "151"}
+  },
+  "add_ons": {
+    "_ref": "Preface item 5: 1% sundries, 1% water charges, 10% overhead and 10% contractor's profit are part of every finished rate",
+    "sundries_pct": 1,
+    "water_pct": 1,
+    "overhead_pct": 10,
+    "profit_pct": 10
+  },
+  "gst_pct": 18
+}

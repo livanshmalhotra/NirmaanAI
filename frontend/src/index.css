@@ -1,0 +1,197 @@
+:root {
+  /* Color Tokens */
+  /* Warm paper surfaces, dark warm text, muted accents */
+  --bg-primary:       #f4f1ec;
+  --bg-secondary:     #f8f6f2;
+  --bg-tertiary:      #efebe4;
+  --bg-elevated:      #ffffff;
+
+  --accent-primary:   #5d6b80;   /* slate */
+  --accent-secondary: #4f7d78;   /* sea glass */
+  --accent-success:   #5c7d59;   /* sage */
+  --accent-warning:   #a57c3a;   /* sand */
+  --accent-danger:    #b0604f;   /* terracotta */
+
+  --text-primary:     #2b2926;
+  --text-secondary:   #6b665e;
+  --text-tertiary:    #8f897f;
+
+  --border-subtle:    rgba(60, 52, 44, 0.1);
+  --border-accent:    rgba(93, 107, 128, 0.3);
+  --border-color:     rgba(60, 52, 44, 0.14);
+  --bg-card:          #ffffff;
+
+  --glass-bg:         rgba(255, 255, 255, 0.85);
+  --glass-border:     rgba(60, 52, 44, 0.1);
+  --glass-shadow:     0 1px 2px rgba(60, 52, 44, 0.06), 0 4px 16px rgba(60, 52, 44, 0.06);
+
+  /* Floor accent colors */
+  --floor-1: #6e6890;
+  --floor-2: #4f7d78;
+  --floor-3: #5c7d59;
+  --floor-4: #a57c3a;
+  --floor-5: #b0604f;
+  --floor-6: #9e5e70;
+  --floor-7: #57729a;
+  --floor-8: #77804e;
+  --floor-9: #a8714a;
+  --floor-10: #7d6f9a;
+
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Light mode overrides ── */
+[data-theme="light"] {
+  --bg-primary:    #f4f1ec;
+  --bg-secondary:  #f8f6f2;
+  --bg-tertiary:   #efebe4;
+  --bg-elevated:   #ffffff;
+
+  --text-primary:   #2b2926;
+  --text-secondary: #6b665e;
+  --text-tertiary:  #8f897f;
+
+  --border-subtle:  rgba(60, 52, 44, 0.1);
+  --border-accent:  rgba(93, 107, 128, 0.3);
+  --border-color:   rgba(0, 0, 0, 0.15);
+
+  --glass-bg:     rgba(255, 255, 255, 0.75);
+  --glass-border: rgba(0, 0, 0, 0.1);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+
+  color-scheme: light;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+}
+
+[data-theme="light"] body {
+  background-color: var(--bg-primary);
+}
+
+[data-theme="light"] button:hover {
+  background-color: var(--bg-tertiary);
+}
+
+[data-theme="light"] ::-webkit-scrollbar-track { background: var(--bg-secondary); }
+[data-theme="light"] ::-webkit-scrollbar-thumb { background: var(--bg-tertiary); }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+a {
+  font-weight: 500;
+  color: var(--accent-primary);
+  text-decoration: inherit;
+}
+a:hover {
+  color: var(--accent-secondary);
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: var(--bg-elevated);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: border-color 0.25s, transform 0.2s, background-color 0.2s;
+}
+button:hover {
+  border-color: var(--accent-primary);
+  background-color: var(--bg-tertiary);
+  transform: translateY(-1px);
+}
+button:active {
+  transform: translateY(0);
+}
+button:focus {
+  outline: none;
+}
+button:focus-visible {
+  outline: 2px solid rgba(93, 107, 128, 0.55);
+  outline-offset: 1px;
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Typing indicator dots ── */
+.typing-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #4f7d78;
+  animation: typingPulse 0.8s ease-in-out infinite alternate;
+}
+
+@keyframes typingPulse {
+  from { opacity: 0.3; transform: scale(0.8); }
+  to   { opacity: 1;   transform: scale(1.1); }
+}
+
+/* ── Floor card hover lift ── */
+.floor-card-3d:hover {
+  filter: brightness(1.15);
+}
+
+/* ── Fade in animation ── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.3s ease both;
+}
+
+/* ── Scrollbar styling ── */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary); 
+}
+::-webkit-scrollbar-thumb {
+  background: #d9d3c9; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary); 
+}

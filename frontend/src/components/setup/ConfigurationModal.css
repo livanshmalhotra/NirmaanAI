@@ -1,0 +1,126 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(60, 52, 44, 0.21);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  padding: 2.5rem;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 560px;
+  max-height: 92vh;
+  overflow-y: auto;
+  box-shadow: 0 12px 32px rgba(60, 52, 44, 0.14);
+  color: var(--text-primary);
+  text-align: center;
+}
+
+.modal-title {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  background: linear-gradient(135deg, #2b2926 0%, #2b2926 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.modal-subtitle {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+
+.setup-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+.setup-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.8rem 1rem;
+  background: rgba(60, 52, 44, 0.06);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  transition: all 0.2s ease;
+}
+
+.setup-input:focus {
+  outline: none;
+  border-color: #5d6b80;
+  background: rgba(60, 52, 44, 0.12);
+  box-shadow: 0 0 0 3px rgba(93, 107, 128, 0.25);
+}
+
+.setup-button {
+  background: #5d6b80;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: opacity 0.2s, transform 0.1s;
+}
+
+.setup-button:hover:not(:disabled) {
+  opacity: 0.9;
+}
+
+.setup-button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.setup-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+select.setup-input {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22white%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpolyline%20points%3D%226%209%2012%2015%2018%209%22%3E%3C%2Fpolyline%3E%3C%2Fsvg%3E") !important;
+  background-repeat: no-repeat !important;
+  background-position: right 1.25rem center !important;
+  background-size: 1.1rem auto !important;
+  padding-right: 3.5rem !important;
+  cursor: pointer;
+}
+
+select.setup-input option {
+  background-color: #ffffff;
+  color: var(--text-primary);
+  padding: 12px;
+  font-size: 1rem;
+}
+
+select.setup-input option:checked {
+  background-color: #5d6b80;
+  color: #ffffff;
+}

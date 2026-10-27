@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets — keep the *.example templates
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+# The real key files in this repo (already covered above; listed so it's obvious)
+backend/.env
+backend/.env.local
+frontend/.env
+frontend/.env.local
+
+# Node / build output
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+coverage/
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Tooling
+.agents/
+.stitch/
+.claude/
+skills-lock.json
+
+# Saved building state (backend/state/store.py)
+backend/state/building_state.json
+backend/state/building_state.tmp
+backend/state/building_state.draft.json
+backend/state/building_state.draft.tmp
+
+# KPWD Schedule of Rates source PDF (4 MB, public download) — the parsed JSON
+# in backend/data/sor/ is committed; regenerate it with backend/scripts/parse_kpwd_sor.py
+backend/data/sor/*.pdf
+
+# Official PDFs downloaded by backend/scripts/build_seismic_data.py (BMTPC map, IS 1893);
+# the extracted JSON in backend/data/seismic/ is committed
+backend/data/seismic/sources/
+backend/data/lifecycle/sources/
+
+# Throwaway debug pages for rendering components outside the app
+frontend/debug-*.html
+frontend/src/__debug_*

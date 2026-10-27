@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "source": "KPWD SR 2023-24 Vol 2, Addendum II (CBRI Roorkee) — 'Material and labour required on plinth area basis', residential buildings",
+    "page": "228-229",
+    "verified": "Transcribed from the rendered printed pages, not just the extracted text",
+    "formula": "quantity = a × A + b, where A = total plinth area of all storeys in m²",
+    "valid_range": "30-300 m² of plinth area (one dwelling) for single and double storey load-bearing buildings (Note I, page 229)",
+    "excluded_by_source": "Builder's hardware, rainwater goods, water supply, plumbing, drains and electrical wiring are to be added extra (Note I)",
+    "omitted_rows": {
+      "lime, surkhi": "Lime-surkhi mortar; modern work uses cement mortar, which the cement row covers",
+      "bitumen": "Replaced by the modern roof waterproofing finished item 15.11",
+      "brick aggregate": "Not used with M-Sand / crushed aggregate",
+      "shuttering ballies": "Formwork is added as a percentage per Vol 1 (Preface item 22) — not in Vol 2",
+      "four storey (RCC-framed) column": "Valid only up to 100 m² total plinth area and contains A² terms that turn negative beyond it (e.g. steel = 102.46A − 0.401A² − 1662); also printed with a typo ('397A − 0.76' for sand). Buildings of 3+ storeys use the double-storey column, flagged approximate."
+    }
+  },
+  "sets": {
+    "single": {
+      "label": "Single storey, load bearing (incl. foundation)",
+      "rows": [
+        {"key": "brick_100",      "a": 2.26,  "b": 66.8,  "note": "Constant printed as '66/8'; read as 66.8 (double storey constant is 63)"},
+        {"key": "cement_t",       "a": 0.153, "b": 0.57},
+        {"key": "steel_kg",       "a": 21.3,  "b": -314},
+        {"key": "sand_m3",        "a": 0.47,  "b": -7},
+        {"key": "agg20_m3",       "a": 0.176, "b": -0.21},
+        {"key": "agg40_m3",       "a": 0.145, "b": 1.5},
+        {"key": "timber_m3",      "a": 0.019, "b": 0.23,  "note": "Timber for frames and shutters"},
+        {"key": "glass_m2",       "a": 0.047, "b": 0},
+        {"key": "primer_l",       "a": 0.048, "b": 0},
+        {"key": "paint_l",        "a": 0.08,  "b": 0.27},
+        {"key": "mason_day",      "a": 1.335, "b": 28},
+        {"key": "carpenter_day",  "a": 1.184, "b": -9},
+        {"key": "painter_day",    "a": 0.19,  "b": 0},
+        {"key": "blacksmith_day", "a": 0.269, "b": -4},
+        {"key": "mazdoor_day",    "a": 4.769, "b": 32}
+      ]
+    },
+    "double": {
+      "label": "Double storey, load bearing (incl. foundation)",
+      "rows": [
+        {"key": "brick_100",      "a": 2.15,  "b": 63},
+        {"key": "cement_t",       "a": 0.145, "b": 0.54},
+        {"key": "steel_kg",       "a": 21.97, "b": -305},
+        {"key": "sand_m3",        "a": 0.43,  "b": -5.6},
+        {"key": "agg20_m3",       "a": 0.178, "b": -0.21},
+        {"key": "agg40_m3",       "a": 0.075, "b": 0.78},
+        {"key": "timber_m3",      "a": 0.019, "b": 0.23,  "note": "Timber for frames and shutters"},
+        {"key": "glass_m2",       "a": 0.047, "b": 0},
+        {"key": "primer_l",       "a": 0.048, "b": 0},
+        {"key": "paint_l",        "a": 0.08,  "b": 0.27},
+        {"key": "mason_day",      "a": 1.355, "b": 6},
+        {"key": "carpenter_day",  "a": 1.194, "b": -9},
+        {"key": "painter_day",    "a": 0.19,  "b": 0},
+        {"key": "blacksmith_day", "a": 0.274, "b": -1.4},
+        {"key": "mazdoor_day",    "a": 4.91,  "b": 13}
+      ]
+    }
+  }
+}
